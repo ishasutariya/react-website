@@ -1,0 +1,138 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: sans-serif;
+}
+
+nav {
+    position: relative;
+    margin: 0 auto;
+    background-color: #ffffff;
+    width: 100%;
+    z-index: 999;
+    height: 65px;
+    line-height: 65px;
+}
+
+nav .wrapper {
+    /* max-width: 1250px; */
+    background-color: #ffffff;
+    /* padding: 0 30px; */
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.wrapper .logo a {
+    text-decoration: none;
+}
+
+.nav-link {
+    display: inline-flex;
+}
+
+.nav-link li {
+    list-style-type: none;
+}
+/* .nav-link li a:hover{
+    
+} */
+.nav-link li a {
+    text-decoration: none;
+    color: #000000;
+    font-family: 'Font Name', sans-serif;
+    letter-spacing: 1px;
+    padding: 0px 20px;
+}
+
+/* .nav-link li a:hover{
+    color: #D2D5D9;
+    border-bottom: 2px solid lightgrey;
+}  */
+.icons a {
+    text-decoration: none;
+}
+
+.icons a i {
+    color: #000000;
+    padding: 0px 15px;
+    font-size: 20px;
+}
+
+.nav-link .drop-menu {
+    width: 280px;
+    text-align: start;
+    top: 90px;
+    line-height: 35px;
+    background-color: #ffffff;
+    position: absolute;
+    /* box-shadow: 0 2px 2px 0 rgba(0, 0, 0, 0.2); */
+    opacity: 0;
+    visibility: hidden;
+}
+
+.nav-link li:hover .drop-menu,
+.nav-link li:hover .mega-box{
+    top: 65px;
+    opacity: 1;
+    visibility: visible;
+    transition: all 0.3s ease;
+}
+
+.drop-menu li a {
+    width: 100%;
+    font-family: 'Font Name', sans-serif;
+    display: block;
+    padding: 0 0 0 15px;
+}
+
+ul .mega-link {
+    padding: 0px !important;
+}
+
+.mega-box {
+    position: absolute;
+    top: 85px;
+    width: 100%;
+    background-color: #ffffff;
+    left: 0px;
+    margin: 0 auto;
+    display: flex;
+    justify-content: space-around;
+    opacity: 0;
+    visibility: hidden;
+    transition: all 0.3s ease;
+}
+div .rows{
+    padding: 20px;
+}
+.mega-box .content {
+    padding: 25px 20px;
+    display: flex;
+    max-width: 1250px;
+    justify-content: space-between !important;
+}
+
+header {
+    color: #D2D5D9;
+    font-size: 20px;
+}
+
+.image-section {
+    display: flex;
+    justify-content: space-between;
+    padding: 20px 30px;
+    position: relative;
+    left: 100px;
+}
+
+.mega-link-image {
+    margin: 10px 20px;
+
+}
+
+.content .rows {
+    width: calc(55% - 30px);
+    line-height: 40px;
+}

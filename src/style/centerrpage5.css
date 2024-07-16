@@ -1,0 +1,13 @@
+.center_section{
+    display: flex;
+    justify-content: center;
+}
+.slider{
+    width: 50%;
+}
+.image_Side1{
+    width: 50%;
+}
+.slick-slide img{
+    padding: 50px 100px;
+}

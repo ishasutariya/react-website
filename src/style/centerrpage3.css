@@ -1,0 +1,135 @@
+.main_div1 {
+    margin: 0 auto;
+    padding: 0;
+}
+
+.title_text h1 {
+    text-align: center;
+    font-size: 30px;
+    padding: 30px 0px 10px 0px;
+    font-family: 'Font Name', sans-serif;
+    font-weight: bold;
+    letter-spacing: 1px;
+}
+
+.title_text p {
+    text-align: center;
+    letter-spacing: 1px;
+    font-size: 18px;
+    font-family: 'Font Name', sans-serif;
+    padding: 0px;
+    color: #7f8081;
+}
+
+.main_image_section {
+    width: fit-content;
+    margin: auto;
+    padding: 0.5rem;
+}
+
+.image_section1 {
+    display: flex;
+}
+
+.sub_image_section {
+    justify-content: center;
+    display: block;
+}
+
+.sub_image {
+    display: flex;
+}
+
+.sub_image img {
+    width: 400px;
+    height: 400px;
+    object-fit: cover;
+    margin: 3px;
+}
+
+.sub_image_section1 img {
+    width: 800px;
+    height: 809px;
+    object-fit: cover;
+    margin-left: 3px;
+}
+
+.sub_image_section2 {
+    display: flex;
+}
+
+.sub_image_section2 img {
+    width: 400px;
+    height: 400px;
+    object-fit: cover;
+    margin: 3px;
+}
+
+.div_container {
+    position: relative;
+    cursor: pointer;
+}
+
+.image {
+    display: block;
+    width: 100%;
+    height: auto;
+}
+
+.div_container:hover::before {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: #00000077;
+    border: 2px solid white;
+}
+
+
+.overlay_page3 {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    overflow: hidden;
+    width: 0;
+    height: 100%;
+    transition: .5s ease;
+}
+
+.div_container:hover .overlay_page3 {
+    width: 100%;
+}
+
+.text {
+    color: white;
+    font-size: 15px;
+    position: absolute;
+    top: 90%;
+    left: 20%;
+    -webkit-transform: translate(-50%, -50%);
+    -ms-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+    white-space: nowrap;
+}
+
+#text {
+    color: white;
+    font-size: 20px;
+    position: absolute;
+    top: 80%;
+    left: 20%;
+    -webkit-transform: translate(-50%, -50%);
+    -ms-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+    white-space: nowrap;
+}
+.shop_button button{
+    margin: 20px;
+    font-size: 16px;
+    font-weight: bold;
+    border: none;
+    border-bottom: 2px solid #000000;
+}

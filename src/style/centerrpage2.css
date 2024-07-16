@@ -1,0 +1,10 @@
+.main_div_page2 {
+    max-width: 1740px;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+.center_image {
+    position: relative;
+    cursor: pointer;
+}
