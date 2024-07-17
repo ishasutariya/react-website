@@ -7,9 +7,9 @@ function Centerrpage6() {
     return (
 
         <div className="container">
-            <h1 className="title_h1" style={{fontSize:"30px", fontFamily:"cursive"}}>Shop New Arrivals by Blinglane</h1>
-            <div className="images1">
-                <div className="images_section">
+            <h1 className="title_h1" style={{ fontSize: "30px", fontFamily: "cursive" }}>Shop New Arrivals by Blinglane</h1>
+            <div className="row images1">
+                <div className="col-12 col-md-6 col-lg-3 images_section">
                     <div className="image_container">
                         <img src={Shop_new} alt="Solitaire Necklace" />
                         <div className="overlay">
@@ -26,7 +26,7 @@ function Centerrpage6() {
                     </div>
                 </div>
 
-                <div className="images_section">
+                <div className="col-12 col-md-6 col-lg-3 images_section">
                     <div className="image_container">
                         <img src={Shop_new1} alt="Pearl Necklace" />
                         <div className="overlay">
@@ -44,7 +44,7 @@ function Centerrpage6() {
                     </div>
                 </div>
 
-                <div className="images_section">
+                <div className="col-12 col-md-6 col-lg-3 images_section">
                     <div className="image_container">
                         <img src={Shop_new2} alt="Minimal Hoops" />
                         <div className="overlay">
@@ -61,7 +61,7 @@ function Centerrpage6() {
                     </div>
                 </div>
 
-                <div className="images_section">
+                <div className="col-12 col-md-6 col-lg-3 images_section">
                     <div className="image_container">
                         <img src={Shop_new3} alt="Vine Earring" />
                         <div className="overlay">

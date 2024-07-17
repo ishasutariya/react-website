@@ -16,8 +16,8 @@ function Centerrpage4() {
                 <p>Our most popular products available to ship from New Delhi Warehouse</p>
             </div>
 
-            <div className="images1">
-                <div className="images_section">
+            <div className="row images1">
+                <div className="col-12 col-md-6 col-lg-3 images_section">
                     <div className="image_container">
                         <img src={solitaire_necklace} alt="Solitaire Necklace" />
                         <div className="overlay">
@@ -34,7 +34,7 @@ function Centerrpage4() {
                     </div>
                 </div>
 
-                <div className="images_section">
+                <div className="col-12 col-md-6 col-lg-3 images_section">
                     <div className="image_container">
                         <img src={pearl_necklace} alt="Pearl Necklace" />
                         <div className="overlay">
@@ -51,7 +51,7 @@ function Centerrpage4() {
                     </div>
                 </div>
 
-                <div className="images_section">
+                <div className="col-12 col-md-6 col-lg-3 images_section">
                     <div className="image_container">
                         <img src={minimal_hoops} alt="Minimal Hoops" />
                         <div className="overlay">
@@ -68,7 +68,7 @@ function Centerrpage4() {
                     </div>
                 </div>
 
-                <div className="images_section">
+                <div className="col-12 col-md-6 col-lg-3 images_section">
                     <div className="image_container">
                         <img src={vine_Earring} alt="Vine Earring" />
                         <div className="overlay">

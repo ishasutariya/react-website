@@ -12,13 +12,16 @@ import Social9 from '../../images/Social9.avif'
 
 function Centerrpage3() {
     return (
-        <div className="main_div1">
-            <div className="title_text">
-                <h1>#Blinglane Social Community</h1>
-                <p>Mention Blinglane on Instagram to get featured here</p>
+        <>
+            <div className="main_div1">
+                <div className="title_text">
+                    <h1>#Blinglane Social Community</h1>
+                    <p>Mention Blinglane on Instagram to get featured here</p>
+                </div>
             </div>
+
             <div className="main_image_section">
-                <div className="image_section1">
+                <div className="image_section1 ">
                     <div className="sub_image_section">
                         <div className="sub_image">
                             <div className="div_container">
@@ -52,6 +55,22 @@ function Centerrpage3() {
                                 </div>
                             </div>
                         </div>
+                        <div className="sub_image">
+                            <div className="div_container">
+                                <img src={Social6} alt="Avatar" className="image" />
+                                <div className="overlay_page3">
+                                    <i id="text" class="fa-solid fa-arrow-right"></i>
+                                    <div className="text">SHOP THIS LOOK</div>
+                                </div>
+                            </div>
+                            <div className="div_container">
+                                <img src={Social7} alt="Avatar" className="image" />
+                                <div className="overlay_page3">
+                                    <i id="text" class="fa-solid fa-arrow-right"></i>
+                                    <div className="text">SHOP THIS LOOK</div>
+                                </div>
+                            </div>
+                        </div>
                     </div>
                     <div className="sub_image_section1">
                         <div className="div_container">
@@ -61,45 +80,31 @@ function Centerrpage3() {
                                 <div className="text">SHOP THIS LOOK</div>
                             </div>
                         </div>
+                        <div className="sub_image_section2">
+                            <div className="div_container">
+                                <img src={Social8} alt="Avatar" className="image" />
+                                <div className="overlay_page3">
+                                    <i id="text" class="fa-solid fa-arrow-right"></i>
+                                    <div className="text">SHOP THIS LOOK</div>
+                                </div>
+                            </div>
+                            <div className="div_container">
+                                <img src={Social9} alt="Avatar" className="image" />
+                                <div className="overlay_page3">
+                                    <i id="text" class="fa-solid fa-arrow-right"></i>
+                                    <div className="text">SHOP THIS LOOK</div>
+                                </div>
+                            </div>
+                        </div>
                     </div>
                 </div>
                 <div>
-                    <div className="sub_image_section2">
-                        <div className="div_container">
-                            <img src={Social6} alt="Avatar" className="image" />
-                            <div className="overlay_page3">
-                                <i id="text" class="fa-solid fa-arrow-right"></i>
-                                <div className="text">SHOP THIS LOOK</div>
-                            </div>
-                        </div>
-                        <div className="div_container">
-                            <img src={Social7} alt="Avatar" className="image" />
-                            <div className="overlay_page3">
-                                <i id="text" class="fa-solid fa-arrow-right"></i>
-                                <div className="text">SHOP THIS LOOK</div>
-                            </div>
-                        </div>
-                        <div className="div_container">
-                            <img src={Social8} alt="Avatar" className="image" />
-                            <div className="overlay_page3">
-                                <i id="text" class="fa-solid fa-arrow-right"></i>
-                                <div className="text">SHOP THIS LOOK</div>
-                            </div>
-                        </div>
-                        <div className="div_container">
-                            <img src={Social9} alt="Avatar" className="image" />
-                            <div className="overlay_page3">
-                                <i id="text" class="fa-solid fa-arrow-right"></i>
-                                <div className="text">SHOP THIS LOOK</div>
-                            </div>
-                        </div>
-                    </div>
                 </div>
             </div>
             <div className="shop_button">
                 <button>Show More</button>
             </div>
-        </div>
+        </>
     )
 }
 export default Centerrpage3

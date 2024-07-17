@@ -39,14 +39,14 @@ function Navbar() {
                                     <div className='image-section'>
                                         <div className='rows'>
                                             <div className='mega-link-image'>
-                                                <img src={shop_image} style={{ width: '400px' }} alt="shop_image" />
+                                                <img src={shop_image} className="shop_image" />
                                                 <p><a href='#'>PERSONALIZE YOUR JEWELRY</a></p>
                                                 <p><a href='#'>Shop Now!</a></p>
                                             </div>
                                         </div>
                                         <div className='rows'>
                                             <div className='mega-link-image'>
-                                                <img src={shop_image1} style={{ width: '365px' }} alt="shop_image1" />
+                                                <img src={shop_image1} className="shop_image1" />
                                                 <p><a href='#'>LOVE BANDS BY BLINGLANE</a></p>
                                                 <p><a href='#'>Shop Now!</a></p>
                                             </div>

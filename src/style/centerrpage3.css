@@ -1,6 +1,9 @@
 .main_div1 {
+    max-width: 100%;
     margin: 0 auto;
-    padding: 0;
+    align-items: center;
+    text-align: center;
+    width: 100%;
 }
 
 .title_text h1 {
@@ -22,13 +25,19 @@
 }
 
 .main_image_section {
+    display: flex;
+    margin: 0 auto;
+    justify-content: center;
     width: fit-content;
-    margin: auto;
     padding: 0.5rem;
+    flex-wrap: wrap;
+    /* Ensure items wrap when screen is smaller */
 }
 
 .image_section1 {
     display: flex;
+    flex-wrap: wrap;
+    /* Ensure items wrap when screen is smaller */
 }
 
 .sub_image_section {
@@ -38,6 +47,8 @@
 
 .sub_image {
     display: flex;
+    flex-wrap: wrap;
+    /* Ensure items wrap when screen is smaller */
 }
 
 .sub_image img {
@@ -56,6 +67,8 @@
 
 .sub_image_section2 {
     display: flex;
+    flex-wrap: wrap;
+    /* Ensure items wrap when screen is smaller */
 }
 
 .sub_image_section2 img {
@@ -87,7 +100,6 @@
     border: 2px solid white;
 }
 
-
 .overlay_page3 {
     position: absolute;
     bottom: 0;
@@ -109,8 +121,6 @@
     position: absolute;
     top: 90%;
     left: 20%;
-    -webkit-transform: translate(-50%, -50%);
-    -ms-transform: translate(-50%, -50%);
     transform: translate(-50%, -50%);
     white-space: nowrap;
 }
@@ -121,15 +131,182 @@
     position: absolute;
     top: 80%;
     left: 20%;
-    -webkit-transform: translate(-50%, -50%);
-    -ms-transform: translate(-50%, -50%);
     transform: translate(-50%, -50%);
     white-space: nowrap;
 }
-.shop_button button{
+
+.shop_button button {
     margin: 20px;
     font-size: 16px;
     font-weight: bold;
     border: none;
     border-bottom: 2px solid #000000;
 }
+
+/* Responsive design */
+@media only screen and (max-width: 1440px) and (min-width: 1395px) {
+    .sub_image img {
+        width: 340px;
+        height: 380px;
+    }
+
+    .sub_image_section1 img {
+        width: 700px;
+        height: 770px;
+    }
+
+    .sub_image_section2 img {
+        width: 345px;
+        height: 380px;
+    }
+}
+
+@media only screen and (max-width: 1395px) and (min-width: 1317px) {
+    .sub_image img {
+        width: 300px;
+        height: 380px;
+    }
+
+    .sub_image_section1 img {
+        width: 700px;
+        height: 770px;
+    }
+
+    .sub_image_section2 img {
+        width: 345px;
+        height: 380px;
+    }
+}
+
+@media only screen and (max-width: 1317px) and (min-width: 1280px) {
+    .main_image_section {
+        display: block;
+    }
+
+    .sub_image img {
+        width: 300px;
+        height: 380px;
+    }
+
+    .sub_image_section1 img {
+        width: 650px;
+        height: 770px;
+    }
+
+    .sub_image_section2 img {
+        width: 300px;
+        height: 380px;
+    }
+}
+
+@media only screen and (max-width: 1280px) and (min-width: 730px) {
+    .image_section1 {
+        display: block;
+    }
+
+    .main_image_section {
+        display: block;
+    }
+
+    .sub_image img {
+        width: 350px;
+        height: 300px;
+    }
+
+    .sub_image_section1 img {
+        width: 700px;
+        height: 500px;
+    }
+
+    .sub_image_section2 img {
+        width: 350px;
+        height: 300px;
+    }
+}
+
+@media only screen and (max-width: 730px) and (min-width: 430px) {
+    .image_section1 {
+        display: block;
+    }
+
+    .main_image_section {
+        display: block;
+    }
+
+    .sub_image img {
+        display: inline-block;
+        justify-content: center;
+        align-items: center;
+        text-align: center;
+        width: 320px;
+        margin: 10px 10px;
+        height: 300px;
+    }
+
+    .sub_image_section1 img {
+        display: block;
+        width: 660px;
+        justify-content: center;
+        align-items: center;
+        margin: 0px 15px;
+        height: 500px;
+    }
+
+    .sub_image_section2 img {
+        display: inline-block;
+        justify-content: center;
+        align-items: center;
+        text-align: center;
+        width: 320px;
+        margin: 10px 10px;
+        height: 300px;
+    }
+}
+
+@media only screen and (max-width: 430px) and (min-width:390px) {
+    .image_section1 {
+        display: block;
+    }
+
+    .main_image_section {
+        display: block;
+    }
+
+    .sub_image img,
+    .sub_image_section1 img,
+    .sub_image_section2 img {
+        justify-content: center;
+        align-items: center;
+        text-align: center;
+        display: block;
+        width: 370px;
+        margin: 10px 0px;
+        height: 300px;
+    }
+}
+@media only screen and (max-width: 390px) and (min-width:320px) {
+    .image_section1 {
+        display: block;
+    }
+
+    .main_image_section {
+        display: block;
+    }
+
+    .sub_image img,
+    .sub_image_section1 img,
+    .sub_image_section2 img {
+        justify-content: center;
+        align-items: center;
+        text-align: center;
+        display: block;
+        width: 340px;
+        margin: 10px 0px;
+        height: 300px;
+    }
+}
+
+out Time:6:15
+    working hours:- 8hours
+    Today work update : >> react website
+                    >> responsive

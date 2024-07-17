@@ -1,19 +1,51 @@
+
 .slider-container {
-    background-color:#D2D5D9;
+    background-color: #D2D5D9;
+    padding: 10px;
 }
 
-.slick-prev {
-    left: 69px;
-    background-color:#D2D5D9;
-}
-.slick-next {
-    right: 20px;
-    background-color:#D2D5D9;
-}
 
-.text-section h3{
+.text-section h3 {
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     font-size: 12px;
     letter-spacing: 1px;
     padding: 10px;
+    text-align: center;
+}
+
+
+.slick-prev,
+.slick-next {
+    background-color: #D2D5D9;
+    border-radius: 50%;
+    width: 30px;
+    height: 30px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    z-index: 1;
+}
+
+
+.slick-prev {
+    left: 10px;
+}
+
+
+.slick-next {
+    right: 10px;
+}
+
+
+@media (min-width: 600px) {
+    .text-section h3 {
+        font-size: 16px;
+    }
+}
+
+
+@media (min-width: 1024px) {
+    .text-section h3 {
+        font-size: 20px;
+    }
 }

@@ -6,92 +6,100 @@ function Footer() {
     return (
         <footer>
             <div className="footer_top_sectiomn">
-                <div className="footer_strat">
-                    <img src="https://d2kmd27hg6le17.cloudfront.net/storefront_api/icons/13234727-c3de-45ce-a742-fa4c05a7a2ca?color=rgba(0,%200,%200,%201)" />
-                    <p>Finest Quality</p>
-                    <p>Finely crafted products</p>
+                <div className="se_1">
+                    <div className="footer_strat">
+                        <img src="https://d2kmd27hg6le17.cloudfront.net/storefront_api/icons/13234727-c3de-45ce-a742-fa4c05a7a2ca?color=rgba(0,%200,%200,%201)" />
+                        <p>Finest Quality</p>
+                        <p>Finely crafted products</p>
+                    </div>
+                    <div className="footer_strat">
+                        <img src="https://d2kmd27hg6le17.cloudfront.net/storefront_api/icons/45e8bc81-3f8f-49c7-b28e-7acae34e5251?color=rgba(0,%200,%200,%201)" />
+                        <p>Hypoallergenic</p>
+                        <p>Non-allergic materials</p>
+                    </div>
+                    <div className="footer_strat">
+                        <img src="https://d2kmd27hg6le17.cloudfront.net/storefront_api/icons/c1760d5a-086f-4e21-b2db-71baf0260ca4?color=rgba(0,%200,%200,%201)" />
+                        <p>Free Shipping</p>
+                        <p>Premium packaging</p>
+                    </div>
                 </div>
-                <div className="footer_strat">
-                    <img src="https://d2kmd27hg6le17.cloudfront.net/storefront_api/icons/45e8bc81-3f8f-49c7-b28e-7acae34e5251?color=rgba(0,%200,%200,%201)" />
-                    <p>Hypoallergenic</p>
-                    <p>Non-allergic materials</p>
-                </div>
-                <div className="footer_strat">
-                    <img src="https://d2kmd27hg6le17.cloudfront.net/storefront_api/icons/c1760d5a-086f-4e21-b2db-71baf0260ca4?color=rgba(0,%200,%200,%201)" />
-                    <p>Free Shipping</p>
-                    <p>Premium packaging</p>
-                </div>
-                <div className="footer_strat">
-                    <img src="https://d2kmd27hg6le17.cloudfront.net/storefront_api/icons/ef93b489-21a9-4982-9b44-db51681dad19?color=rgba(0,%200,%200,%201)" />
-                    <p>Gift Wrap Available</p>
-                    <p>Free postcard</p>
-                </div>
-                <div className="footer_strat">
-                    <img src="https://d2kmd27hg6le17.cloudfront.net/storefront_api/icons/7c98e1ba-4317-496f-bd08-e7217d8a5ba4?color=rgba(0,%200,%200,%201)" />
-                    <p>Latest Trends</p>
-                    <p>To Your Doorstep</p>
-                </div>
-                <div className="footer_strat">
-                    <img src="https://d2kmd27hg6le17.cloudfront.net/storefront_api/icons/99e95c15-a693-47c4-8ce1-02e7ee39983a?color=rgba(0,%200,%200,%201)" />
-                    <p>SSL Secure</p>
-                    <p>PCI DSS Compliant</p>
+                <div className="se_2">
+                    <div className="footer_strat">
+                        <img src="https://d2kmd27hg6le17.cloudfront.net/storefront_api/icons/ef93b489-21a9-4982-9b44-db51681dad19?color=rgba(0,%200,%200,%201)" />
+                        <p>Gift Wrap Available</p>
+                        <p>Free postcard</p>
+                    </div>
+                    <div className="footer_strat">
+                        <img src="https://d2kmd27hg6le17.cloudfront.net/storefront_api/icons/7c98e1ba-4317-496f-bd08-e7217d8a5ba4?color=rgba(0,%200,%200,%201)" />
+                        <p>Latest Trends</p>
+                        <p>To Your Doorstep</p>
+                    </div>
+                    <div className="footer_strat">
+                        <img src="https://d2kmd27hg6le17.cloudfront.net/storefront_api/icons/99e95c15-a693-47c4-8ce1-02e7ee39983a?color=rgba(0,%200,%200,%201)" />
+                        <p>SSL Secure</p>
+                        <p>PCI DSS Compliant</p>
+                    </div>
                 </div>
             </div>
             <div>
                 <div className="footer_center_part">
                     <div className="data">
-                        <div className="detalis">
-                            <ul>
-                                <h4>COLLECTIONS</h4>
-                                <li><a href="#">Best Sellers</a></li>
-                                <li><a href="#">Express Delivery</a></li>
-                                <li><a href="#">Minimal Jewellery</a></li>
-                                <li><a href="#">Elegant Jewellery</a></li>
-                                <li><a href="#">Floral Jewellery</a></li>
-                                <li><a href="#">Love Bands Jewellery</a></li>
-                                <li><a href="#">Personalized Jewellery</a></li>
-                                <li><a href="#">Rose Gold Jewellery</a></li>
-                                <li><a href="#">Cartilage Piercing Jewellery</a></li>
-                                <li><a href="#">Butterfly Bling Jewellery</a></li>
-                                <li><a href="#">Zodiac Jewellery</a></li>
-                            </ul>
+                        <div className="se_1" id="se_1">
+                            <div className="detalis">
+                                <ul>
+                                    <h4>COLLECTIONS</h4>
+                                    <li><a href="#">Best Sellers</a></li>
+                                    <li><a href="#">Express Delivery</a></li>
+                                    <li><a href="#">Minimal Jewellery</a></li>
+                                    <li><a href="#">Elegant Jewellery</a></li>
+                                    <li><a href="#">Floral Jewellery</a></li>
+                                    <li><a href="#">Love Bands Jewellery</a></li>
+                                    <li><a href="#">Personalized Jewellery</a></li>
+                                    <li><a href="#">Rose Gold Jewellery</a></li>
+                                    <li><a href="#">Cartilage Piercing Jewellery</a></li>
+                                    <li><a href="#">Butterfly Bling Jewellery</a></li>
+                                    <li><a href="#">Zodiac Jewellery</a></li>
+                                </ul>
+                            </div>
+                            <div class="detalis">
+                                <ul>
+                                    <h4>CATEGORIES</h4>
+                                    <li><a href="#">Silver Necklace</a> </li>
+                                    <li><a href="#">Silver Ring</a></li>
+                                    <li><a href="#">Silver Bracelet</a></li>
+                                    <li><a href="#">Silver Earrings</a></li>
+                                    <li><a href="#">Silver Anklet</a></li>
+                                    <li><a href="#">Gift Card</a></li>
+                                    <li><a href="#">Belt Buckles</a></li>
+                                    <li><a href="#">Brooches</a></li>
+                                </ul>
+                            </div>
                         </div>
-                        <div class="detalis">
-                            <ul>
-                                <h4>CATEGORIES</h4>
-                                <li><a href="#">Silver Necklace</a> </li>
-                                <li><a href="#">Silver Ring</a></li>
-                                <li><a href="#">Silver Bracelet</a></li>
-                                <li><a href="#">Silver Earrings</a></li>
-                                <li><a href="#">Silver Anklet</a></li>
-                                <li><a href="#">Gift Card</a></li>
-                                <li><a href="#">Belt Buckles</a></li>
-                                <li><a href="#">Brooches</a></li>
-                            </ul>
-                        </div>
-                        <div class="detalis">
-                            <ul>
-                                <h4>POLICIES </h4>
-                                <li><a href="#">Returns & Exchange Policy</a></li>
-                                <li><a href="#">Privacy Policy</a></li>
-                                <li><a href="#">Terms & Conditions</a></li>
-                                <li><a href="#">Shipping Policy</a></li>
-                                <li><a href="#">Contact Us</a></li>
-                            </ul>
-                        </div>
-                        <div class="detalis">
-                            <ul>
-                                <h4>INFORMATION</h4>
-                                <li><a href="#">About Us</a></li>
-                                <li><a href="#">Sitemap</a></li>
-                                <li><a href="#">Check Order Status</a></li>
-                                <li><a href="#">Return or Exchange Order</a></li>
-                                <li><a href="#">Jewellery Blog</a></li>
-                                <li><a href="#">LookBook</a></li>
-                                <li><a href="#">Influencer Program</a></li>
-                                <li><a href="#">Shipping, Returns & Exchanges</a></li>
-                                <li><a href="#">Jewelry Care, Packaging & Gifts</a></li>
-                            </ul>
+                        <div className="se_2" id="se_2">
+                            <div class="detalis">
+                                <ul>
+                                    <h4>POLICIES </h4>
+                                    <li><a href="#">Returns & Exchange Policy</a></li>
+                                    <li><a href="#">Privacy Policy</a></li>
+                                    <li><a href="#">Terms & Conditions</a></li>
+                                    <li><a href="#">Shipping Policy</a></li>
+                                    <li><a href="#">Contact Us</a></li>
+                                </ul>
+                            </div>
+                            <div class="detalis">
+                                <ul>
+                                    <h4>INFORMATION</h4>
+                                    <li><a href="#">About Us</a></li>
+                                    <li><a href="#">Sitemap</a></li>
+                                    <li><a href="#">Check Order Status</a></li>
+                                    <li><a href="#">Return or Exchange Order</a></li>
+                                    <li><a href="#">Jewellery Blog</a></li>
+                                    <li><a href="#">LookBook</a></li>
+                                    <li><a href="#">Influencer Program</a></li>
+                                    <li><a href="#">Shipping, Returns & Exchanges</a></li>
+                                    <li><a href="#">Jewelry Care, Packaging & Gifts</a></li>
+                                </ul>
+                            </div>
                         </div>
                     </div>
                     <div className="side_detalis">
@@ -143,9 +151,7 @@ function Footer() {
                     <p>
                         96500-BLING (25464) | care@blinglane.com
                     </p>
-                    <p>
-                        BIS : HM/C-8590049325 | CIN: U74999DL2014PTC268955
-                    </p>
+                    <p>BIS:HM/C-8590049325|CIN:U74999DL2014PTC268955</p>
 
                 </div>
             </div>

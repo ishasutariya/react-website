@@ -14,17 +14,17 @@ import Footer from './Footer'
 function Home() {
   return (
     <div>
-      <Header/>
-      <Navbar/>
-      <Slideicon/>
-      <Centerrpage/>
-      <Centerrpage1/>
-      <Centerrpage2/>
-      <Centerrpage3/>
-      <Centerrpage4/>
-      <Centerrpage5/>
-      <Centerrpage6/>
-      <Footer/>
+      {/* <Header />
+      <Navbar />
+      <Slideicon />
+      <Centerrpage />
+      <Centerrpage1 />
+      <Centerrpage2 /> */}
+      <Centerrpage3 />
+      {/* <Centerrpage4 />
+      <Centerrpage5 />
+      <Centerrpage6 />
+      <Footer /> */}
     </div>
   )
 }

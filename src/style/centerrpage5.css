@@ -1,13 +1,110 @@
-.center_section{
+.center_section {
     display: flex;
     justify-content: center;
 }
-.slider{
+
+.slider {
     width: 50%;
 }
-.image_Side1{
-    width: 50%;
+
+.image_Side1 {
+    width: 30%;
 }
-.slick-slide img{
+
+.slick-dots {
+    width: 80%;
+    
+}
+
+.slick-slide img {
     padding: 50px 100px;
+}
+
+.images_container1 {
+    cursor: pointer;
+}
+
+.image_container1 {
+    position: relative;
+    overflow: hidden;
+}
+
+.image_container1 img {
+    width: 80%;
+    transition: transform 0.6s ease;
+}
+
+.image_container1:hover img {
+    transform: scale(1.1);
+}
+
+.hover_text {
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    height: 100%;
+    width: 80%;
+    opacity: 0;
+    transition: opacity 0.6s ease;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+.image_container1:hover .hover_text {
+    opacity: 1;
+}
+
+.card_overlay {
+    background-color: #ffffff;
+    position: absolute;
+    bottom: 60px;
+    color: #1A1B18;
+    font-family: 'Font Name', sans-serif;
+    left: 50%;
+    transform: translateX(-50%);
+    width: 70%;
+    font-size: 15px;
+    padding: 10px 0px;
+    text-align: center;
+    opacity: 0;
+    transition: opacity 0.6s;
+}
+
+.images_container1:hover .card_overlay {
+    opacity: 1;
+}
+
+.image_name1 {
+    font-size: 14px;
+    width: 80%;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: #212326;
+    text-align: center !important;
+    align-items: center;
+    margin: 0px;
+}
+
+.price {
+    font-size: 18px;
+    color: #212326;
+    text-align: center;
+    margin-top: 5px;
+    margin-left: 10px;
+}
+
+.original_price {
+    color: #212326;
+    background-color: #ffffff;
+    margin-left: 10px;
+}
+
+.price_title1 {
+    align-items: center;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    width: 80%;
 }
