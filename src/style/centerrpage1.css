@@ -13,7 +13,7 @@ body {
 }
 
 .heder-text {
-    font-size: 30px;
+    font-size: 30px; 
     padding: 20px 10px;
 }
 
@@ -44,7 +44,7 @@ a button {
     justify-content: center;
     align-items: center;
     min-height: 80vh;
-    flex-wrap: wrap; /* Ensure that items wrap to the next line if they exceed the width */
+    flex-wrap: wrap; 
 }
 
 .card {
@@ -58,7 +58,7 @@ a button {
     margin: 10px;
     overflow: hidden;
     border: 1px solid  #fff;
-    box-sizing: border-box; /* Ensure padding and border are included in the element's total width and height */
+    box-sizing: border-box; 
 }
 
 .card img {

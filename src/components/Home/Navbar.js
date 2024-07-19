@@ -13,7 +13,7 @@ function Navbar() {
                     <div className='logo'><a href='#'><img src={logo} alt="logo" /></a></div>
                     <ul className='nav-link'>
                         <li>
-                            <a href='#' className='menu'>Shop</a>
+                            <a href='/shop' className='menu'>Shop</a>
                             <div className='mega-box'>
                                 <div className='content'>
                                     <div className='rows'>
@@ -56,7 +56,7 @@ function Navbar() {
                             </div>
                         </li>
                         <li>
-                            <a href='#' className='menu'>Collections</a>
+                            <a href='/collections' className='menu'>Collections</a>
                             <ul className='drop-menu'>
                                 <li><a href='#' className='menu'>Best Sellers</a></li>
                                 <li><a href='#' className='menu'>Express Delivery</a></li>

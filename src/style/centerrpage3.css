@@ -279,12 +279,33 @@
         align-items: center;
         text-align: center;
         display: block;
+        width: 400px;
+        margin: 10px 0px;
+        height: 300px;
+    }
+}
+@media only screen and (max-width: 390px) and (min-width:375px) {
+    .image_section1 {
+        display: block;
+    }
+
+    .main_image_section {
+        display: block;
+    }
+
+    .sub_image img,
+    .sub_image_section1 img,
+    .sub_image_section2 img {
+        justify-content: center;
+        align-items: center;
+        text-align: center;
+        display: block;
         width: 370px;
         margin: 10px 0px;
         height: 300px;
     }
 }
-@media only screen and (max-width: 390px) and (min-width:320px) {
+@media only screen and (max-width: 375px) and (min-width:330px) {
     .image_section1 {
         display: block;
     }
@@ -305,8 +326,25 @@
         height: 300px;
     }
 }
+@media only screen and (max-width: 320px){
+    .image_section1 {
+        display: block;
+    }
 
-out Time:6:15
-    working hours:- 8hours
-    Today work update : >> react website
-                    >> responsive
+    .main_image_section {
+        display: block;
+    }
+
+    .sub_image img,
+    .sub_image_section1 img,
+    .sub_image_section2 img {
+        justify-content: center;
+        align-items: center;
+        text-align: center;
+        display: block;
+        width: 300px;
+        margin: 10px 0px;
+        height: 300px;
+    }
+}
+

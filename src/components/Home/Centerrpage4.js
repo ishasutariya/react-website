@@ -25,7 +25,7 @@ function Centerrpage4() {
                             <div className="icon_title">
                                 <i className="fa-solid fa-magnifying-glass"></i>
                             </div>
-                        </div>
+                        </div> 
                     </div>
                     <div className="image_name">Minimal Solitaire Necklace – Silver</div>
                     <div className="price_title">
