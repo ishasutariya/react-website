@@ -10,7 +10,7 @@ function Navbar() {
         <div>
             <nav>
                 <div className='wrapper'>
-                    <div className='logo'><a href='#'><img src={logo} alt="logo" /></a></div>
+                    <div className='logo'><a href='/'><img src={logo} alt="logo" /></a></div>
                     <ul className='nav-link'>
                         <li>
                             <a href='/shop' className='menu'>Shop</a>
@@ -72,9 +72,9 @@ function Navbar() {
                                 <li><a href='#' className='menu'>Ear Huggies</a></li>
                             </ul>
                         </li>
-                        <li><a href='#'className='menu'>Express Delivery</a></li>
-                        <li><a href='#'className='menu'>Personalize</a></li>
-                        <li><a href='#'className='menu'>New Arrivals</a></li>
+                        <li><a href='/expresshome'className='menu'>Express Delivery</a></li>
+                        <li><a href='/Personalizedhome'className='menu'>Personalize</a></li>
+                        <li><a href='/Newarrivals'className='menu'>New Arrivals</a></li>
                         <li>
                             <a href='#' className='menu'>Information</a>
                             <ul className='drop-menu'>

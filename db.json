@@ -5,349 +5,925 @@
             "image": "https://cdn.shopify.com/s/files/1/0762/9484/8796/products/3d-triangular-minimal-studs-blinglane-1.jpg?v=1701398405&width=360",
             "hoverImage": "https://cdn.shopify.com/s/files/1/0762/9484/8796/products/3d-triangular-minimal-studs-blinglane-2.png?v=1701398406&width=360",
             "name": "3D Triangular Minimal Studs",
-            "price": "₹1,245.00"
+            "price": "₹1,245"
         },
         {
             "id": 2,
             "image": "https://cdn.shopify.com/s/files/1/0762/9484/8796/products/a-love-ethic-neckpiece-blinglane-1.jpg?v=1701398546&width=360",
             "hoverImage": "https://cdn.shopify.com/s/files/1/0762/9484/8796/products/a-love-ethic-neckpiece-blinglane-2.jpg?v=1701398548&width=360",
             "name": "A Love Ethic Necklace",
-            "price": "₹1,980.00"
+            "price": "₹1,980"
         },
         {
             "id": 3,
             "image": "https://cdn.shopify.com/s/files/1/0762/9484/8796/products/a-promise-together-forever-love-bands-blinglane-1.jpg?v=1701398819&width=360",
             "hoverImage": "https://cdn.shopify.com/s/files/1/0762/9484/8796/products/a-promise-together-forever-love-bands-blinglane-2.jpg?v=1701398821&width=360",
             "name": "A Promise Together Forever Love Bands",
-            "price": "₹1,895.00"
+            "price": "₹1,895"
         },
         {
             "id": 4,
             "image": "https://cdn.shopify.com/s/files/1/0762/9484/8796/products/adorable-aqua-mini-studs-blinglane-1.webp?v=1701399082&width=360",
             "hoverImage": "https://cdn.shopify.com/s/files/1/0762/9484/8796/files/adorable-aqua-mini-studs-blinglane-2.webp?v=1701399083&width=360",
             "name": "Adorable Aqua Mini Studs",
-            "price": "₹1,895.00"
+            "price": "₹1,045"
         },
         {
             "id": 5,
             "image": "https://cdn.shopify.com/s/files/1/0762/9484/8796/products/adorable-curves-drop-earrings-blinglane-1.jpg?v=1701398468&width=360",
             "hoverImage": "https://cdn.shopify.com/s/files/1/0762/9484/8796/products/adorable-curves-drop-earrings-blinglane-2.jpg?v=1701398469&width=360",
             "name": "Adorable Aqua Mini Studs",
-            "price": "₹1,895.00"
+            "price": "₹1,980"
         },
         {
             "id": 6,
             "image": "https://cdn.shopify.com/s/files/1/0762/9484/8796/products/adorable-curves-mini-hoops-blinglane-1.jpg?v=1701398602&width=360",
             "hoverImage": "https://cdn.shopify.com/s/files/1/0762/9484/8796/products/adorable-curves-mini-hoops-blinglane-2.jpg?v=1701398603&width=360",
             "name": "Adorable Curves Drop Earrings",
-            "price": "₹1,895.00"
+            "price": "₹990"
         },
         {
             "id": 7,
             "image": "https://cdn.shopify.com/s/files/1/0762/9484/8796/products/adorable-hearts-mini-hoops-blinglane-1.jpg?v=1701398523&width=360",
             "hoverImage": "https://cdn.shopify.com/s/files/1/0762/9484/8796/products/adorable-hearts-mini-hoops-blinglane-2.jpg?v=1701398524&width=360",
             "name": "Adorable Curves Mini Hoops",
-            "price": "₹1,895.00"
+            "price": "₹1,296"
         },
         {
             "id": 8,
             "image": "https://cdn.shopify.com/s/files/1/0762/9484/8796/products/adorable-hexagons-mini-hoops-blinglane-1.jpg?v=1701398602&width=360",
             "hoverImage": "https://cdn.shopify.com/s/files/1/0762/9484/8796/products/adorable-hexagons-mini-hoops-blinglane-2.jpg?v=1701398604&width=360",
             "name": "Adorable Hearts Mini Hoops",
-            "price": "₹1,245.00"
+            "price": "₹990"
         },
         {
             "id": 9,
             "image": "https://cdn.shopify.com/s/files/1/0762/9484/8796/products/alluring-aqua-waves-bracelet-blinglane-1.jpg?v=1701398973&width=360",
             "hoverImage": "https://cdn.shopify.com/s/files/1/0762/9484/8796/products/alluring-aqua-waves-bracelet-blinglane-2.jpg?v=1701398974&width=360",
             "name": "Adorable Hexagons Mini Hoops",
-            "price": "₹1,245.00"
+            "price": "₹3,495"
         },
         {
             "id": 10,
             "image": "https://cdn.shopify.com/s/files/1/0762/9484/8796/products/alluring-bling-box-pendant-blinglane-1.jpg?v=1701398101&width=360",
             "hoverImage": "https://cdn.shopify.com/s/files/1/0762/9484/8796/products/alluring-bling-box-pendant-blinglane-2.jpg?v=1701398103&width=360",
             "name": "Alluring Aqua Waves Bracelet",
-            "price": "₹1,245.00"
+            "price": "₹3,465"
         },
         {
             "id": 11,
             "image": "https://cdn.shopify.com/s/files/1/0762/9484/8796/products/amusing-dew-drops-chain-earrings-blinglane-1.jpg?v=1701398743&width=360",
             "hoverImage": "https://cdn.shopify.com/s/files/1/0762/9484/8796/products/amusing-dew-drops-chain-earrings-blinglane-2.jpg?v=1701398745&width=360",
             "name": "Alluring Bling Box Pendant",
-            "price": "₹1,245.00"
+            "price": "₹1,120"
         },
         {
             "id": 12,
             "image": "https://cdn.shopify.com/s/files/1/0762/9484/8796/products/an-affair-with-leaves-ring-blinglane-1.jpg?v=1701398553&width=360",
             "hoverImage": "https://cdn.shopify.com/s/files/1/0762/9484/8796/products/an-affair-with-leaves-ring-blinglane-2.jpg?v=1701398554&width=360",
             "name": "Amusing Dew Drops Chain Earrings",
-            "price": "₹1,245.00"
+            "price": "₹1,440"
         },
         {
             "id": 13,
             "image": "https://cdn.shopify.com/s/files/1/0762/9484/8796/products/antlers-minimal-solitaire-studs-blinglane-1.jpg?v=1701398217&width=360",
             "hoverImage": "https://cdn.shopify.com/s/files/1/0762/9484/8796/products/antlers-minimal-solitaire-studs-blinglane-2.jpg?v=1701398219&width=360",
             "name": "An Affair With Leaves Ring",
-            "price": "₹1,245.00"
+            "price": "₹949"
         },
         {
             "id": 14,
             "image": "https://cdn.shopify.com/s/files/1/0762/9484/8796/products/antlers-solitaire-minimal-necklace-blinglane-1.jpg?v=1701398884&width=360",
             "hoverImage": "https://cdn.shopify.com/s/files/1/0762/9484/8796/products/antlers-solitaire-minimal-necklace-blinglane-2.jpg?v=1701398886&width=360",
             "name": "Antlers Minimal Solitaire Studs",
-            "price": "₹1,245.00"
+            "price": "₹2,299"
         },
         {
             "id": 15,
             "image": "https://cdn.shopify.com/s/files/1/0762/9484/8796/products/aqua-pod-needle-drop-earrings-blinglane-1.jpg?v=1701398461&width=360",
             "hoverImage": "https://cdn.shopify.com/s/files/1/0762/9484/8796/products/aqua-pod-needle-drop-earrings-blinglane-2.jpg?v=1701398462&width=360",
             "name": "Antlers Solitaire Minimal Necklace",
-            "price": "₹1,245.00"
+            "price": "₹925"
         },
         {
             "id": 16,
             "image": "https://cdn.shopify.com/s/files/1/0762/9484/8796/products/argent-desire-anklet-blinglane.jpg?v=1701398843&width=360",
             "name": "Aqua Pod Needle Drop Earrings",
-            "price": "₹1,245.00"
+            "price": "₹2,590"
         },
         {
             "id": 17,
             "image": "https://cdn.shopify.com/s/files/1/0762/9484/8796/products/aristocratic-elegance-ring-blinglane-1.jpg?v=1701398993&width=360",
             "hoverImage": "https://cdn.shopify.com/s/files/1/0762/9484/8796/products/aristocratic-elegance-ring-blinglane-2.jpg?v=1701398995&width=360",
             "name": "Argent Desire Anklet",
-            "price": "₹1,245.00"
+            "price": "₹1,699"
         },
         {
             "id": 18,
             "image": "https://cdn.shopify.com/s/files/1/0762/9484/8796/products/astonishing-antlers-pearl-studs-blinglane-1.jpg?v=1701398426&width=360",
             "hoverImage": "https://cdn.shopify.com/s/files/1/0762/9484/8796/products/astonishing-antlers-pearl-studs-blinglane-2.jpg?v=1701398428&width=360",
             "name": "Aristocratic Elegance Ring",
-            "price": "₹1,245.00"
+            "price": "₹1,295"
         },
         {
             "id": 19,
             "image": "https://cdn.shopify.com/s/files/1/0762/9484/8796/products/authentic-antlers-elite-necklace-blinglane-1.jpg?v=1701398302&width=360",
             "hoverImage": "https://cdn.shopify.com/s/files/1/0762/9484/8796/products/authentic-antlers-elite-necklace-blinglane-2.jpg?v=1701398304&width=360",
             "name": "Authentic Antlers Elite Necklace",
-            "price": "₹1,245.00"
+            "price": "₹3,195"
         },
         {
             "id": 20,
             "image": "https://cdn.shopify.com/s/files/1/0762/9484/8796/products/be-my-princess-minimal-studs-blinglane-1.jpg?v=1701398789&width=360",
             "hoverImage": "https://cdn.shopify.com/s/files/1/0762/9484/8796/products/be-my-princess-minimal-studs-blinglane-2.jpg?v=1701398790&width=360",
             "name": "Astonishing Antlers Pearl Studs",
-            "price": "₹1,245.00"
+            "price": "₹895"
         },
         {
             "id": 21,
             "image": "https://cdn.shopify.com/s/files/1/0762/9484/8796/products/be-my-princess-ring-blinglane-1.jpg?v=1701398810&width=360",
             "hoverImage": "https://cdn.shopify.com/s/files/1/0762/9484/8796/products/be-my-princess-ring-blinglane-2.jpg?v=1701398811&width=360",
             "name": "Be My Princess Minimal Studs",
-            "price": "₹1,245.00"
+            "price": "₹990"
         },
         {
             "id": 22,
             "image": "https://cdn.shopify.com/s/files/1/0762/9484/8796/products/be-my-wild-rose-forever-love-bands-blinglane-1.jpg?v=1701399063&width=360",
             "hoverImage": "https://cdn.shopify.com/s/files/1/0762/9484/8796/products/be-my-wild-rose-forever-love-bands-blinglane-2.jpg?v=1701399065&width=360",
             "name": "Be My Princess Ring",
-            "price": "₹1,245.00"
+            "price": "₹1,245"
         },
         {
             "id": 23,
             "image": "https://cdn.shopify.com/s/files/1/0762/9484/8796/products/beauteous-leaf-pearl-necklace-blinglane-1.jpg?v=1701398194&width=360",
             "hoverImage": "https://cdn.shopify.com/s/files/1/0762/9484/8796/products/beauteous-leaf-pearl-necklace-blinglane-2.jpg?v=1701398196&width=360",
             "name": "Be My Wild Rose Forever Love Bands",
-            "price": "₹1,245.00"
+            "price": "₹3,345"
         },
         {
             "id": 24,
             "image": "https://cdn.shopify.com/s/files/1/0762/9484/8796/products/beauteous-leaf-pearl-studs-blinglane-1.jpg?v=1701398083&width=360",
             "hoverImage": "https://cdn.shopify.com/s/files/1/0762/9484/8796/products/beauteous-leaf-pearl-studs-blinglane-2.jpg?v=1701398085&width=360",
             "name": "Beauteous Leaf Pearl Necklace",
-            "price": "₹1,245.00"
+            "price": "₹2,450"
         }
     ],
-    "Collections":[
+    "Collections": [
         {
             "id": 1,
-            "image":"https://blinglane.com/cdn/shop/products/personalize-your-name-anklet-blinglane-1.jpg?v=1701398288&width=535",
-            "image_name":"Anklets"
+            "image": "https://blinglane.com/cdn/shop/products/personalize-your-name-anklet-blinglane-1.jpg?v=1701398288&width=535",
+            "image_name": "Anklets"
         },
         {
-            "id":2,
-            "image":"https://blinglane.com/cdn/shop/products/personalize-your-rectangular-belt-buckle-blinglane-1.jpg?v=1701398069&width=535",
-            "image_name":"Belt Buckles"
+            "id": 2,
+            "image": "https://blinglane.com/cdn/shop/products/personalize-your-rectangular-belt-buckle-blinglane-1.jpg?v=1701398069&width=535",
+            "image_name": "Belt Buckles"
         },
         {
-            "id":3,
-            "image":"https://blinglane.com/cdn/shop/products/little-black-ring-blinglane-1.jpg?v=1701398069&width=535",
-            "image_name":"Best Sellers"
+            "id": 3,
+            "image": "https://blinglane.com/cdn/shop/products/little-black-ring-blinglane-1.jpg?v=1701398069&width=535",
+            "image_name": "Best Sellers"
         },
         {
-            "id":4,
-            "image":"https://blinglane.com/cdn/shop/products/minimal-solitaire-necklace-blinglane-1.jpg?v=1701398234&width=535",
-            "image_name":"BlingFluencer"
+            "id": 4,
+            "image": "https://blinglane.com/cdn/shop/products/minimal-solitaire-necklace-blinglane-1.jpg?v=1701398234&width=535",
+            "image_name": "BlingFluencer"
         },
         {
-            "id":5,
-            "image":"https://blinglane.com/cdn/shop/products/dahlia-elite-bracelet-blinglane-1.jpg?v=1701398108&width=535",
-            "image_name":"Bracelets"
+            "id": 5,
+            "image": "https://blinglane.com/cdn/shop/products/dahlia-elite-bracelet-blinglane-1.jpg?v=1701398108&width=535",
+            "image_name": "Bracelets"
         },
         {
-            "id":6,
-            "image":"https://blinglane.com/cdn/shop/products/personalize-your-name-brooch-blinglane-1.jpg?v=1701398993&width=535",
-            "image_name":"Brooches"
+            "id": 6,
+            "image": "https://blinglane.com/cdn/shop/products/personalize-your-name-brooch-blinglane-1.jpg?v=1701398993&width=535",
+            "image_name": "Brooches"
         },
         {
-            "id":7,
-            "image":"https://blinglane.com/cdn/shop/products/twinkling-butterflies-bracelet-blinglane-1.jpg?v=1701398681&width=535",
-            "image_name":"Butterfly Bling Jewellery"
+            "id": 7,
+            "image": "https://blinglane.com/cdn/shop/products/twinkling-butterflies-bracelet-blinglane-1.jpg?v=1701398681&width=535",
+            "image_name": "Butterfly Bling Jewellery"
         },
         {
-            "id":8,
-            "image":"https://blinglane.com/cdn/shop/products/blingfly-mini-drop-hoops-blinglane-1.jpg?v=1701398201&width=535",
-            "image_name":"Cartilage Piercing Jewellery"
+            "id": 8,
+            "image": "https://blinglane.com/cdn/shop/products/blingfly-mini-drop-hoops-blinglane-1.jpg?v=1701398201&width=535",
+            "image_name": "Cartilage Piercing Jewellery"
         },
         {
-            "id":9,
-            "image":"https://blinglane.com/cdn/shop/products/blossomed-huggie-ear-cuffs-blinglane-1.jpg?v=1701398435&width=535",
-            "image_name":"Ear Huggies"
+            "id": 9,
+            "image": "https://blinglane.com/cdn/shop/products/blossomed-huggie-ear-cuffs-blinglane-1.jpg?v=1701398435&width=535",
+            "image_name": "Ear Huggies"
         },
         {
-            "id":10,
-            "image":"https://blinglane.com/cdn/shop/products/blingfly-mini-drop-hoops-blinglane-1.jpg?v=1701398201&width=535",
-            "image_name":"Earrings"
+            "id": 10,
+            "image": "https://blinglane.com/cdn/shop/products/blingfly-mini-drop-hoops-blinglane-1.jpg?v=1701398201&width=535",
+            "image_name": "Earrings"
         },
         {
-            "id":11,
-            "image":"https://blinglane.com/cdn/shop/products/young-bud-elegant-ring-blinglane-1.jpg?v=1701398223&width=535",
-            "image_name":"Elegant Jewellery"
+            "id": 11,
+            "image": "https://blinglane.com/cdn/shop/products/young-bud-elegant-ring-blinglane-1.jpg?v=1701398223&width=535",
+            "image_name": "Elegant Jewellery"
         },
         {
-            "id":12,
-            "image":"https://blinglane.com/cdn/shop/products/mere-evil-eye-minimal-ring-blinglane-1.jpg?v=1701398724&width=535",
-            "image_name":"Evil Eye"
+            "id": 12,
+            "image": "https://blinglane.com/cdn/shop/products/mere-evil-eye-minimal-ring-blinglane-1.jpg?v=1701398724&width=535",
+            "image_name": "Evil Eye"
         },
         {
-            "id":13,
-            "image":"https://blinglane.com/cdn/shop/products/minimal-solitaire-necklace-blinglane-1.jpg?v=1701398234&width=535",
-            "image_name":"Express Delivery"
+            "id": 13,
+            "image": "https://blinglane.com/cdn/shop/products/minimal-solitaire-necklace-blinglane-1.jpg?v=1701398234&width=535",
+            "image_name": "Express Delivery"
         },
         {
-            "id":14,
-            "image":"https://blinglane.com/cdn/shop/products/scintillating-hearts-hoops-blinglane-1.jpg?v=1701398688&width=360",
-            "image_name":"Fashion Accessories"
+            "id": 14,
+            "image": "https://blinglane.com/cdn/shop/products/scintillating-hearts-hoops-blinglane-1.jpg?v=1701398688&width=360",
+            "image_name": "Fashion Accessories"
         },
         {
-            "id":15,
-            "image":"https://blinglane.com/cdn/shop/products/personalize-your-name-anklet-blinglane-1.jpg?v=1701398288&width=535",
-            "image_name":"Fashion Anklets"
+            "id": 15,
+            "image": "https://blinglane.com/cdn/shop/products/personalize-your-name-anklet-blinglane-1.jpg?v=1701398288&width=535",
+            "image_name": "Fashion Anklets"
         },
         {
-            "id":16,
-            "image":"https://blinglane.com/cdn/shop/products/refined-red-garnet-beads-minimal-bracelet-blinglane-1.jpg?v=1701398834&width=360",
-            "image_name":"Fashion Bracelets"
+            "id": 16,
+            "image": "https://blinglane.com/cdn/shop/products/refined-red-garnet-beads-minimal-bracelet-blinglane-1.jpg?v=1701398834&width=360",
+            "image_name": "Fashion Bracelets"
         },
         {
-            "id":17,
-            "image":"https://blinglane.com/cdn/shop/products/personalize-your-name-hoop-earrings-blinglane-1.jpg?v=1701398993&width=535",
-            "image_name":"Fashion Earrings"
+            "id": 17,
+            "image": "https://blinglane.com/cdn/shop/products/personalize-your-name-hoop-earrings-blinglane-1.jpg?v=1701398993&width=535",
+            "image_name": "Fashion Earrings"
         },
         {
-            "id":18,
-            "image":"https://blinglane.com/cdn/shop/products/personalize-your-name-necklace-blinglane-1.jpg?v=1701398302&width=535",
-            "image_name":"Fashion Necklaces"
+            "id": 18,
+            "image": "https://blinglane.com/cdn/shop/products/personalize-your-name-necklace-blinglane-1.jpg?v=1701398302&width=535",
+            "image_name": "Fashion Necklaces"
         },
         {
-            "id":19,
-            "image":"https://blinglane.com/cdn/shop/products/it-s-sunny-outside-bracelet-blinglane-1.jpg?v=1701398496&width=535",
-            "image_name":"Flower Jewellery"
+            "id": 19,
+            "image": "https://blinglane.com/cdn/shop/products/it-s-sunny-outside-bracelet-blinglane-1.jpg?v=1701398496&width=535",
+            "image_name": "Flower Jewellery"
         },
         {
-            "id":20,
-            "image":"https://blinglane.com/cdn/shop/files/Screenshot-20240422-060809_Amazon.jpg?v=1713782357&width=535",
-            "image_name":"Hong Kong Warehouse"
+            "id": 20,
+            "image": "https://blinglane.com/cdn/shop/files/Screenshot-20240422-060809_Amazon.jpg?v=1713782357&width=535",
+            "image_name": "Hong Kong Warehouse"
+        },
+        {
+            "id": 21,
+            "image": "https://blinglane.com/cdn/shop/products/elite-infinity-solitaire-necklace-blinglane-1.jpg?v=1701398761&width=535",
+            "image_name": "Infinity"
+        },
+        {
+            "id": 22,
+            "image": "https://blinglane.com/cdn/shop/products/minimal-initial-stackable-ring-blinglane-1.jpg?v=1701398993&width=535",
+            "image_name": "Initials"
+        },
+        {
+            "id": 23,
+            "image": "https://blinglane.com/cdn/shop/products/minimal-butterfly-studs-blinglane-1.jpg?v=1701398223&width=535",
+            "image_name": "Kids"
+        },
+        {
+            "id": 24,
+            "image": "https://blinglane.com/cdn/shop/products/rainbow-love-minimal-studs-blinglane-1.jpg?v=1701398981&width=535",
+            "image_name": "LGBTQ Pride"
+        },
+        {
+            "id": 25,
+            "image": "https://blinglane.com/cdn/shop/products/waves-or-winds-together-forever-love-bands-blinglane-1.jpg?v=1701398260&width=535",
+            "image_name": "Love Bands Jewellery"
+        },
+        {
+            "id": 26,
+            "image_name": "Metallic Jewellery",
+            "image_p": "Shop premium quality statement alloy metal jewellery online at Blinglane. Free shipping in India...."
+        },
+        {
+            "id": 27,
+            "image": "https://blinglane.com/cdn/shop/products/minimal-solitaire-necklace-blinglane-1.jpg?v=1701398234&width=535",
+            "image_name": "Minimal Jewellery"
+        },
+        {
+            "id": 28,
+            "image": "https://blinglane.com/cdn/shop/products/product-image-1766032198.jpg?v=1684987663&width=535",
+            "image_name": "New Arrivals"
+        },
+        {
+            "id": 29,
+            "image": "https://blinglane.com/cdn/shop/products/personalize-your-name-necklace-blinglane-1.jpg?v=1701398302&width=535",
+            "image_name": "Personalized Jewellery"
+        },
+        {
+            "id": 30,
+            "image": "https://blinglane.com/cdn/shop/products/my-precious-mermaid-necklace-blinglane-1.jpg?v=1701398123&width=535",
+            "image_name": "Rakshabandhan"
+        },
+        {
+            "id": 31,
+            "image": "https://blinglane.com/cdn/shop/products/minimal-solitaire-necklace-blinglane-1.jpg?v=1701398234&width=535",
+            "image_name": "Ready to Ship"
+        },
+        {
+            "id": 32,
+            "image": "https://blinglane.com/cdn/shop/products/dahlia-elite-ring-blinglane-1.jpg?v=1701398774&width=535",
+            "image_name": "Rings"
+        },
+        {
+            "id": 33,
+            "image": "https://blinglane.com/cdn/shop/products/intrepid-brilliance-ring-blinglane-1.jpg?v=1701398899&width=535",
+            "image_name": "Statement"
+        },
+        {
+            "id": 34,
+            "image": "https://blinglane.com/cdn/shop/products/love-initials-elite-waist-chain-blinglane-1.jpg?v=1701398116&width=535",
+            "image_name": "Waist Chains"
+        },
+        {
+            "id": 35,
+            "image": "https://blinglane.com/cdn/shop/products/wanderlust-minimal-bracelet-blinglane-1.jpg?v=1701399010&width=535",
+            "image_name": "Wanderlust"
+        },
+        {
+            "id": 36,
+            "image": "https://blinglane.com/cdn/shop/products/your-zodiac-constellation-bracelet-blinglane-1.jpg?v=1701398834&width=535",
+            "image_name": "Zodiac Jewellery"
+        }
+    ],
+    "ExpressDelivery": [
+        {
+            "id": 1,
+            "image": "https://blinglane.com/cdn/shop/products/minimal-solitaire-necklace-blinglane-1.jpg?v=1701398234&width=535",
+            "hoverImage": "https://blinglane.com/cdn/shop/products/minimal-solitaire-necklace-blinglane-2.jpg?v=1701398238&width=535",
+            "subname": "New Delhi Warehouse",
+            "name": "Minimal Solitaire Necklace",
+            "price": "₹ 1,099"
+        },
+        {
+            "id": 2,
+            "image": "https://blinglane.com/cdn/shop/products/minimal-pearl-necklace-blinglane-1.jpg?v=1701398261&width=535",
+            "hoverImage": "https://blinglane.com/cdn/shop/products/minimal-pearl-necklace-blinglane-2.jpg?v=1701398263&width=535",
+            "subname": "New Delhi Warehouse",
+            "name": "Minimal Pearl Necklace",
+            "price": "₹ 1,099"
+        },
+        {
+            "id": 3,
+            "image": "https://blinglane.com/cdn/shop/products/scintillating-hearts-hoops-blinglane-1.jpg?v=1701398688&width=535",
+            "hoverImage": "https://blinglane.com/cdn/shop/products/scintillating-hearts-hoops-blinglane-2.jpg?v=1701398690&width=535",
+            "subname": "New Delhi Warehouse",
+            "name": "Scintillating Hearts Hoops",
+            "price": "₹ 1,099"
+        },
+        {
+            "id": 4,
+            "image": "https://blinglane.com/cdn/shop/products/dahlia-elite-necklace-blinglane-1.jpg?v=1701398108&width=535",
+            "hoverImage": "https://blinglane.com/cdn/shop/products/dahlia-elite-necklace-blinglane-2.jpg?v=1701398109&width=535",
+            "subname": "New Delhi Warehouse",
+            "name": "Dahlia Elite Necklace",
+            "price": "₹ 2,299"
+        },
+        {
+            "id": 5,
+            "image": "https://blinglane.com/cdn/shop/products/antlers-minimal-solitaire-studs-blinglane-1.jpg?v=1701398217&width=535",
+            "hoverImage": "https://blinglane.com/cdn/shop/products/antlers-minimal-solitaire-studs-blinglane-2.jpg?v=1701398219&width=535",
+            "subname": "New Delhi Warehouse",
+            "name": "Antlers Minimal Solitaire Studs",
+            "price": "₹949"
+        },
+        {
+            "id": 6,
+            "image": "https://blinglane.com/cdn/shop/products/glitterati-butterfly-chain-earrings-blinglane-1.jpg?v=1701398781&width=535",
+            "hoverImage": "https://blinglane.com/cdn/shop/products/glitterati-butterfly-chain-earrings-blinglane-2.jpg?v=1701398783&width=535",
+            "subname": "New Delhi Warehouse",
+            "name": "Glitterati Butterfly Chain Earrings",
+            "price": "₹ 1,195"
+        },
+        {
+            "id": 7,
+            "image": "https://blinglane.com/cdn/shop/products/you-are-my-dreamy-night-forever-love-bands-blinglane-1.jpg?v=1701399063&width=535",
+            "hoverImage": "https://blinglane.com/cdn/shop/products/you-are-my-dreamy-night-forever-love-bands-blinglane-2.jpg?v=1701399064&width=535",
+            "subname": "New Delhi Warehouse",
+            "name": "You Are My Dreamy Night Forever Love Bands",
+            "price": "₹ 3,295"
+        },
+        {
+            "id": 8,
+            "image": "https://blinglane.com/cdn/shop/products/eternity-hoops-necklace-blinglane-1.jpg?v=1701398108&width=535",
+            "hoverImage": "https://blinglane.com/cdn/shop/products/eternity-hoops-necklace-blinglane-2.jpg?v=1701398109&width=535",
+            "subname": "New Delhi Warehouse",
+            "name": "Eternity Hoops Necklace",
+            "price": "₹ 2,099"
+        },
+        {
+            "id": 9,
+            "image": "https://blinglane.com/cdn/shop/products/refined-red-garnet-beads-minimal-bracelet-blinglane-1.jpg?v=1701398834&width=535",
+            "hoverImage": "https://blinglane.com/cdn/shop/products/refined-red-garnet-beads-minimal-bracelet-blinglane-2.jpg?v=1701398836&width=535",
+            "subname": "New Delhi Warehouse",
+            "name": "Refined Red Garnet Beads Minimal Bracelet",
+            "price": "₹ 1,899"
+        },
+        {
+            "id": 10,
+            "image": "https://blinglane.com/cdn/shop/products/my-precious-mermaid-necklace-blinglane-1.jpg?v=1701398123&width=535",
+            "hoverImage": "https://blinglane.com/cdn/shop/products/my-precious-mermaid-necklace-blinglane-2.jpg?v=1701398125&width=535",
+            "subname": "New Delhi Warehouse",
+            "name": "My Precious Mermaid Necklace",
+            "price": "₹ 1,849"
+        },
+        {
+            "id": 11,
+            "image": "https://blinglane.com/cdn/shop/products/your-time-to-bloom-daisy-necklace-blinglane-1.jpg?v=1701398388&width=535",
+            "hoverImage": "https://blinglane.com/cdn/shop/products/your-time-to-bloom-daisy-necklace-blinglane-2.jpg?v=1701398389&width=535",
+            "subname": "New Delhi Warehouse",
+            "name": "Your Time To Bloom Daisy Necklace",
+            "price": "₹ 2,645"
+        },
+        {
+            "id": 12,
+            "image": "https://blinglane.com/cdn/shop/products/stay-on-track-together-love-bands-blinglane-1.jpg?v=1701398260&width=535",
+            "hoverImage": "https://blinglane.com/cdn/shop/products/stay-on-track-together-love-bands-blinglane-2.jpg?v=1701398261&width=535",
+            "subname": "New Delhi Warehouse",
+            "name": "Stay On Track Together Love Bands",
+            "price": "₹ 3,295"
+        },
+        {
+            "id": 13,
+            "image": "https://blinglane.com/cdn/shop/products/twinkling-butterflies-minimal-necklace-blinglane-1.jpg?v=1701398053&width=535",
+            "hoverImage": "https://blinglane.com/cdn/shop/products/twinkling-butterflies-minimal-necklace-blinglane-2.jpg?v=1701398055&width=535",
+            "subname": "New Delhi Warehouse",
+            "name": "Twinkling Butterflies Minimal Necklace",
+            "price": "₹ 2,545"
+        },
+        {
+            "id": 14,
+            "image": "https://blinglane.com/cdn/shop/products/ritzy-hazel-pearl-studs-blinglane-1.jpg?v=1701398461&width=535",
+            "hoverImage": "https://blinglane.com/cdn/shop/products/ritzy-hazel-pearl-studs-blinglane-2.jpg?v=1701398462&width=535",
+            "subname": "New Delhi Warehouse",
+            "name": "Ritzy Hazel Pearl Studs",
+            "price": "₹1,445"
+        },
+        {
+            "id": 15,
+            "image": "https://blinglane.com/cdn/shop/products/classy-disc-and-bar-layered-necklace-blinglane-1.jpg?v=1701398194&width=535",
+            "hoverImage": "https://blinglane.com/cdn/shop/products/classy-disc-and-bar-layered-necklace-blinglane-2.jpg?v=1701398195&width=535",
+            "subname": "New Delhi Warehouse",
+            "name": "Classy Disc & Bar Layered Necklace",
+            "price": "₹ 826"
+        },
+        {
+            "id": 16,
+            "image": "https://blinglane.com/cdn/shop/products/refined-red-garnet-beads-minimal-necklace-blinglane-1.jpg?v=1701398834&width=535",
+            "hoverImage": "https://blinglane.com/cdn/shop/products/refined-red-garnet-beads-minimal-necklace-blinglane-2.jpg?v=1701398836&width=535",
+            "subname": "New Delhi Warehouse",
+            "name": "Refined Red Garnet Beads Minimal Necklace",
+            "price": "₹ 2,099"
+        },
+        {
+            "id": 20,
+            "image": "https://blinglane.com/cdn/shop/products/adorable-hexagons-mini-hoops-blinglane-1.jpg?v=1701398602&width=535",
+            "hoverImage": "https://blinglane.com/cdn/shop/products/adorable-hexagons-mini-hoops-blinglane-2.jpg?v=1701398604&width=535",
+            "subname": "New Delhi Warehouse",
+            "name": "Adorable Hexagons Mini Hoops",
+            "price": "₹990"
+        },
+        {
+            "id": 21,
+            "image": "https://blinglane.com/cdn/shop/files/feel-the-rhythm-studs-blinglane-1.png?v=1701398435&width=535",
+            "hoverImage": "https://blinglane.com/cdn/shop/products/feel-the-rhythm-studs-blinglane-2.jpg?v=1701398436&width=535",
+            "subname": "New Delhi Warehouse",
+            "name": "Feel The Rhythm Studs",
+            "price": "₹ 1,295"
+        },
+        {
+            "id": 22,
+            "image": "https://blinglane.com/cdn/shop/products/rainbow-love-minimal-studs-blinglane-1.jpg?v=1701398981&width=535",
+            "hoverImage": "https://blinglane.com/cdn/shop/products/rainbow-love-minimal-studs-blinglane-2.jpg?v=1701398982&width=535",
+            "subname": "New Delhi Warehouse",
+            "name": "Rainbow Love Minimal Studs",
+            "price": "₹855"
+        },
+        {
+            "id": 23,
+            "image": "https://blinglane.com/cdn/shop/products/twinkling-butterflies-minimal-anklet-blinglane-1.jpg?v=1701398123&width=535",
+            "hoverImage": "https://blinglane.com/cdn/shop/products/twinkling-butterflies-minimal-anklet-blinglane-2.jpg?v=1701398125&width=535",
+            "subname": "New Delhi Warehouse",
+            "name": "Twinkling Butterflies Minimal Anklet",
+            "price": "₹ 1,980"
+        },
+        {
+            "id": 24,
+            "image": "https://blinglane.com/cdn/shop/products/brushed-hearts-needle-drop-earrings-blinglane-1.jpg?v=1701398123&width=535",
+            "hoverImage": "https://blinglane.com/cdn/shop/products/brushed-hearts-needle-drop-earrings-blinglane-2.jpg?v=1701398125&width=535",
+            "subname": "New Delhi Warehouse",
+            "name": "Brushed Hearts Needle Drop Earrings",
+            "price": "₹ 1,049"
+        },
+        {
+            "id": 25,
+            "image": "https://blinglane.com/cdn/shop/products/minimal-star-charm-ring-blinglane-1.jpg?v=1701399003&width=535",
+            "hoverImage": "https://blinglane.com/cdn/shop/products/minimal-star-charm-ring-blinglane-2.jpg?v=1701399005&width=535",
+            "subname": "New Delhi Warehouse",
+            "name": "Minimal Star Charm Ring",
+            "price": "₹ 760"
+        },
+        {
+            "id": 26,
+            "image": "https://blinglane.com/cdn/shop/products/a-promise-together-forever-love-bands-blinglane-1.jpg?v=1701398819&width=535",
+            "hoverImage": "https://blinglane.com/cdn/shop/products/a-promise-together-forever-love-bands-blinglane-2.jpg?v=1701398821&width=535",
+            "subname": "New Delhi Warehouse",
+            "name": "A Promise Together Forever Love Bands",
+            "price": "₹ 1,895"
+        },
+        {
+            "id": 27,
+            "image": "https://blinglane.com/cdn/shop/products/imperfectly-perfect-heart-necklace-blinglane-1.jpg?v=1701398595&width=535",
+            "hoverImage": "https://blinglane.com/cdn/shop/products/imperfectly-perfect-heart-necklace-blinglane-2.jpg?v=1701398596&width=535",
+            "subname": "New Delhi Warehouse",
+            "name": "Imperfectly Perfect Heart Necklace",
+            "price": "₹ 1,502"
+        }
+    ],
+    "PersonalizedJewellery": [
+        {
+            "id": 1,
+            "image": "https://blinglane.com/cdn/shop/products/personalize-your-name-necklace-blinglane-1.jpg?v=1701398302&width=535",
+            "hoverImage": "https://blinglane.com/cdn/shop/products/personalize-your-name-necklace-blinglane-2.jpg?v=1701398303&width=535",
+            "subname": "New Delhi Warehouse",
+            "name": "Personalize Your Name Necklace",
+            "price": "₹ 1,499"
+        },
+        {
+            "id": 2,
+            "image": "https://blinglane.com/cdn/shop/products/personalize-your-morse-code-bracelet-blinglane-1.jpg?v=1701398234&width=535",
+            "hoverImage": "https://blinglane.com/cdn/shop/products/personalize-your-morse-code-bracelet-blinglane-2.jpg?v=1701398237&width=535",
+            "subname": "New Delhi Warehouse",
+            "name": "Personalize Your Morse Code Bracelet",
+            "price": "₹ 895"
+        },
+        {
+            "id": 3,
+            "image": "https://blinglane.com/cdn/shop/products/personalize-your-photo-and-message-engraved-necklace-blinglane-1.jpg?v=1701398275&width=535",
+            "hoverImage": "https://blinglane.com/cdn/shop/products/personalize-your-photo-and-message-engraved-necklace-blinglane-1.jpg?v=1701398275&width=535",
+            "subname": "New Delhi Warehouse",
+            "name": "Personalize Your Photo & Message Engraved Necklace",
+            "price": "₹ 1,495"
+        },
+        {
+            "id": 4,
+            "image": "https://blinglane.com/cdn/shop/products/personalize-your-name-brooch-blinglane-1.jpg?v=1701398993&width=535",
+            "hoverImage": "https://blinglane.com/cdn/shop/products/personalize-your-name-brooch-blinglane-2.jpg?v=1701398995&width=535",
+            "subname": "New Delhi Warehouse",
+            "name": "Personalize Your Name Brooch",
+            "price": "₹ 1,595"
+        },
+        {
+            "id": 5,
+            "image": "https://blinglane.com/cdn/shop/products/personalize-your-name-bracelet-blinglane-1.jpg?v=1701398288&width=535",
+            "hoverImage": "https://blinglane.com/cdn/shop/products/personalize-your-name-bracelet-blinglane-2.jpg?v=1701398290&width=535",
+            "subname": "New Delhi Warehouse",
+            "name": "Personalize Your Name Bracelet",
+            "price": "₹ 1,495"
+        },
+        {
+            "id": 6,
+            "image": "https://blinglane.com/cdn/shop/products/personalize-your-name-vertical-bar-necklace-blinglane-1.jpg?v=1701398134&width=535",
+            "hoverImage": "https://blinglane.com/cdn/shop/products/personalize-your-name-vertical-bar-necklace-blinglane-2.jpg?v=1701398135&width=535",
+            "subname": "New Delhi Warehouse",
+            "name": "Personalize Your Name Vertical Bar Necklace",
+            "price": "₹ 1,495"
+        },
+        {
+            "id": 7,
+            "image": "https://blinglane.com/cdn/shop/products/personalize-your-name-bar-bracelet-blinglane-1.jpg?v=1701398275&width=535",
+            "hoverImage": "https://blinglane.com/cdn/shop/products/personalize-your-name-bar-bracelet-blinglane-2.jpg?v=1701398277&width=535",
+            "subname": "New Delhi Warehouse",
+            "name": "Personalize Your Name Bar Bracelet",
+            "price": "₹ 1,395"
+        },
+        {
+            "id": 8,
+            "image": "https://blinglane.com/cdn/shop/products/personalize-your-name-anklet-blinglane-1.jpg?v=1701398288&width=535",
+            "hoverImage": "https://blinglane.com/cdn/shop/products/personalize-your-name-anklet-blinglane-2.jpg?v=1701398289&width=535",
+            "subname": "New Delhi Warehouse",
+            "name": "Personalize Your Name Anklet",
+            "price": "₹ 1,495"
+        },
+        {
+            "id": 9,
+            "image": "https://blinglane.com/cdn/shop/products/personalize-your-name-3-5mm-cuff-bangle-blinglane-1.jpg?v=1701398234&width=535",
+            "hoverImage": "https://blinglane.com/cdn/shop/products/personalize-your-name-3-5mm-cuff-bangle-blinglane-2.jpg?v=1701398236&width=535",
+            "subname": "New Delhi Warehouse",
+            "name": "Personalize Your Name 3.5mm Cuff Bangle",
+            "price": "₹ 1,395"
+        },
+        {
+            "id": 10,
+            "image": "https://blinglane.com/cdn/shop/products/personalize-your-names-infinity-necklace-blinglane-1.jpg?v=1701398259&width=535",
+            "hoverImage": "https://blinglane.com/cdn/shop/products/personalize-your-names-infinity-necklace-blinglane-2.jpg?v=1701398261&width=535",
+            "subname": "New Delhi Warehouse",
+            "name": "Personalize Your Names Infinity Necklace",
+            "price": "₹ 1,495"
+        },
+        {
+            "id": 11,
+            "image": "https://blinglane.com/cdn/shop/products/personalize-your-handwritten-signature-necklace-blinglane-1.jpg?v=1701398302&width=535",
+            "hoverImage": "https://blinglane.com/cdn/shop/products/personalize-your-handwritten-signature-necklace-blinglane-2.jpg?v=1701398304&width=535",
+            "subname": "New Delhi Warehouse",
+            "name": "Personalize Your Handwritten Signature Necklace",
+            "price": "₹ 1,585"
+        },
+        {
+            "id": 12,
+            "image": "https://blinglane.com/cdn/shop/products/personalize-your-name-6mm-cuff-bangle-blinglane-1.jpg?v=1701399016&width=535",
+            "hoverImage": "https://blinglane.com/cdn/shop/products/personalize-your-name-6mm-cuff-bangle-blinglane-2.jpg?v=1701399018&width=535",
+            "subname": "New Delhi Warehouse",
+            "name": "Personalize Your Name 6mm Cuff Bangle",
+            "price": "₹ 1,395"
+        },
+        {
+            "id": 13,
+            "image": "https://blinglane.com/cdn/shop/products/personalize-your-name-and-symbol-ring-blinglane-1.jpg?v=1701398288&width=535",
+            "hoverImage": "https://blinglane.com/cdn/shop/products/personalize-your-name-and-symbol-ring-blinglane-2.jpg?v=1701398289&width=535",
+            "subname": "New Delhi Warehouse",
+            "name": "Personalize Your Name & Symbol Ring",
+            "price": "₹ 1,495"
+        },
+        {
+            "id": 14,
+            "image": "https://blinglane.com/cdn/shop/products/personalize-couple-names-and-hearts-necklace-blinglane-5.jpg?v=1701398130&width=533",
+            "hoverImage": "https://blinglane.com/cdn/shop/products/personalize-couple-names-and-hearts-necklace-blinglane-2.jpg?v=1701398125&width=535",
+            "subname": "New Delhi Warehouse",
+            "name": "Personalize Couple Names & Hearts Necklace",
+            "price": "₹ 1,575"
+        },
+        {
+            "id": 15,
+            "image": "https://blinglane.com/cdn/shop/products/personalize-your-names-infinity-bracelet-blinglane-1.jpg?v=1701398083&width=535",
+            "hoverImage": "https://blinglane.com/cdn/shop/products/personalize-your-names-infinity-bracelet-blinglane-2.jpg?v=1701398085&width=535",
+            "subname": "New Delhi Warehouse",
+            "name": "Personalize Your Names Infinity Bracelet",
+            "price": "₹ 1,395"
+        },
+        {
+            "id": 16,
+            "image": "https://blinglane.com/cdn/shop/products/personalize-two-names-ring-blinglane-1.jpg?v=1701398083&width=535",
+            "hoverImage": "https://blinglane.com/cdn/shop/products/personalize-two-names-ring-blinglane-2.jpg?v=1701398085&width=535",
+            "subname": "New Delhi Warehouse",
+            "name": "Personalize Two Names Ring",
+            "price": "₹ 1,395"
+        },
+        {
+            "id": 17,
+            "image": "https://blinglane.com/cdn/shop/products/personalize-your-name-ring-blinglane-1.jpg?v=1701398288&width=535",
+            "hoverImage": "https://blinglane.com/cdn/shop/products/personalize-your-name-ring-blinglane-2.jpg?v=1701398290&width=535",
+            "subname": "New Delhi Warehouse",
+            "name": "Personalize Your Name Ring",
+            "price": "₹ 1,395"
+        },
+        {
+            "id": 18,
+            "image": "https://blinglane.com/cdn/shop/products/personalize-your-initial-letters-necklace-blinglane-1.jpg?v=1701398069&width=535",
+            "hoverImage": "https://blinglane.com/cdn/shop/products/personalize-your-initial-letters-necklace-blinglane-2.jpg?v=1701398071&width=535",
+            "subname": "New Delhi Warehouse",
+            "name": "Personalize Your Initial Letters Necklace",
+            "price": "₹ 1,495"
+        },
+        {
+            "id": 19,
+            "image": "https://blinglane.com/cdn/shop/products/personalize-your-name-hoop-earrings-blinglane-1.jpg?v=1701398993&width=535",
+            "hoverImage": "https://blinglane.com/cdn/shop/products/personalize-your-name-hoop-earrings-blinglane-2.jpg?v=1701398995&width=535",
+            "subname": "New Delhi Warehouse",
+            "name": "Personalize Your Name Hoop Earrings",
+            "price": "₹ 1,800"
+        },
+        {
+            "id": 20,
+            "image": "https://blinglane.com/cdn/shop/products/personalize-your-rectangular-belt-buckle-blinglane-1.jpg?v=1701398069&width=535",
+            "hoverImage": "https://blinglane.com/cdn/shop/products/personalize-your-rectangular-belt-buckle-blinglane-2.jpg?v=1701398071&width=535",
+            "subname": "New Delhi Warehouse",
+            "name": "Personalize Your Rectangular Belt Buckle",
+            "price": "₹ 2,565"
+        },
+        {
+            "id": 21,
+            "image": "https://blinglane.com/cdn/shop/products/personalize-your-lgbtq-name-and-symbol-ring-blinglane-1.jpg?v=1701398259&width=535",
+            "hoverImage": "https://blinglane.com/cdn/shop/products/personalize-your-lgbtq-name-and-symbol-ring-blinglane-2.jpg?v=1701398261&width=535",
+            "subname": "New Delhi Warehouse",
+            "name": "Personalize Your LGBTQ Name and Symbol Ring",
+            "price": "₹ 1,495"
+        },
+        {
+            "id": 22,
+            "image": "https://blinglane.com/cdn/shop/products/personalize-your-tree-of-life-necklace-blinglane-1.jpg?v=1701398123&width=535",
+            "hoverImage": "https://blinglane.com/cdn/shop/products/personalize-your-tree-of-life-necklace-blinglane-2.jpg?v=1701398125&width=535",
+            "subname": "New Delhi Warehouse",
+            "name": "Personalize Your Tree of Life Necklace",
+            "price": "₹ 1,575"
+        },
+        {
+            "id": 23,
+            "image": "https://blinglane.com/cdn/shop/products/personalize-your-oval-belt-buckle-blinglane-1.jpg?v=1701398069&width=535",
+            "hoverImage": "https://blinglane.com/cdn/shop/products/personalize-your-oval-belt-buckle-blinglane-2.jpg?v=1701398070&width=535",
+            "subname": "New Delhi Warehouse",
+            "name": "Personalize Your Oval Belt Buckle",
+            "price": "₹ 2,565"
+        }
+    ],
+    "NewArrivals": [
+        {
+            "id": 1,
+            "image": "https://blinglane.com/cdn/shop/products/product-image-1766032198.jpg?v=1684987663&width=535",
+            "hoverImage": "https://blinglane.com/cdn/shop/products/product-image-1766032199.jpg?v=1684987663&width=535",
+            "subname": "New Delhi Warehouse",
+            "name": "Stay Forever In My Heart Hoops",
+            "price": "₹ 1,995"
+        },
+        {
+            "id": 2,
+            "image": "https://blinglane.com/cdn/shop/products/adorable-aqua-mini-studs-blinglane-1.webp?v=1701399082&width=535",
+            "hoverImage": "https://blinglane.com/cdn/shop/files/adorable-aqua-mini-studs-blinglane-2.webp?v=1701399083&width=535",
+            "subname": "New Delhi Warehouse",
+            "name": "Adorable Aqua Mini Studs",
+            "price": "₹ 1,045"
+        },
+        {
+            "id": 3,
+            "image": "https://blinglane.com/cdn/shop/files/i-make-my-own-luck-drop-hoops-blinglane-1.jpg?v=1701399053&width=535",
+            "hoverImage": "https://blinglane.com/cdn/shop/files/i-make-my-own-luck-drop-hoops-blinglane-2.png?v=1701399055&width=535",
+            "subname": "New Delhi Warehouse",
+            "name": "I Make My Own Luck Drop Hoops",
+            "price": "₹ 1,295"
+        },
+        {
+            "id": 4,
+            "image": "https://blinglane.com/cdn/shop/products/product-image-1717030792.jpg?v=1684987089&width=535",
+            "hoverImage": "https://blinglane.com/cdn/shop/products/product-image-1717030794.jpg?v=1713386348&width=535",
+            "subname": "New Delhi Warehouse",
+            "name": "Snazzy Chic Huggie Ear Cuffs",
+            "price": "₹ 995"
+        },
+        {
+            "id": 5,
+            "image": "https://blinglane.com/cdn/shop/products/glazing-dragonfly-mini-studs-blinglane-1.webp?v=1701399082&width=535",
+            "hoverImage": "https://blinglane.com/cdn/shop/files/glazing-dragonfly-mini-studs-blinglane-2.webp?v=1701399083&width=535",
+            "subname": "New Delhi Warehouse",
+            "name": "Glazing Dragonfly Mini Studs",
+            "price": "₹ 1,295"
+        },
+        {
+            "id": 6,
+            "image": "https://blinglane.com/cdn/shop/products/little-black-studs-blinglane-1.webp?v=1701399082&width=535",
+            "hoverImage": "https://blinglane.com/cdn/shop/files/little-black-studs-blinglane-2.webp?v=1701399084&width=535",
+            "subname": "New Delhi Warehouse",
+            "name": "Little Black Studs",
+            "price": "₹ 1,045"
+        },
+        {
+            "id": 7,
+            "image": "https://blinglane.com/cdn/shop/products/sweetheart-pearl-mini-hoops-blinglane-1.jpg?v=1701398453&width=535",
+            "hoverImage": "https://blinglane.com/cdn/shop/files/sweetheart-pearl-mini-hoops-blinglane-2.png?v=1701398455&width=535",
+            "subname": "New Delhi Warehouse",
+            "name": "Sweetheart Pearl Mini Hoops",
+            "price": "₹ 1,245"
+        },
+        {
+            "id": 8,
+            "image": "https://blinglane.com/cdn/shop/products/astonishing-antlers-pearl-studs-blinglane-1.jpg?v=1701398426&width=535",
+            "hoverImage": "https://blinglane.com/cdn/shop/products/astonishing-antlers-pearl-studs-blinglane-2.jpg?v=1701398428&width=535",
+            "subname": "New Delhi Warehouse",
+            "name": "Astonishing Antlers Pearl Studs",
+            "price": "₹ 1,295"
+        },
+        {
+            "id": 9,
+            "image": "https://blinglane.com/cdn/shop/products/pastel-vibes-drop-earrings-blinglane-1.jpg?v=1701398365&width=535",
+            "hoverImage": "https://blinglane.com/cdn/shop/products/pastel-vibes-drop-earrings-blinglane-2.jpg?v=1701398367&width=535",
+            "subname": "New Delhi Warehouse",
+            "name": "Pastel Vibes Drop Earrings",
+            "price": "₹ 2,199"
+        },
+        {
+            "id": 10,
+            "image": "https://blinglane.com/cdn/shop/products/minimal-crossways-ring-blinglane-1.jpg?v=1701398724&width=535",
+            "hoverImage": "https://blinglane.com/cdn/shop/products/minimal-crossways-ring-blinglane-2.jpg?v=1701398725&width=535",
+            "subname": "New Delhi Warehouse",
+            "name": "Minimal Crossways Ring",
+            "price": "₹ 1,048"
+        },
+        {
+            "id": 11,
+            "image": "https://blinglane.com/cdn/shop/products/graceful-bow-pearl-studs-blinglane-1.jpg?v=1701398412&width=535",
+            "hoverImage": "https://blinglane.com/cdn/shop/files/graceful-bow-pearl-studs-blinglane-2.png?v=1701398414&width=535",
+            "subname": "New Delhi Warehouse",
+            "name": "Graceful Bow Pearl Studs",
+            "price": "₹ 1,245"
+        },
+        {
+            "id": 12,
+            "image": "https://blinglane.com/cdn/shop/products/multi-shapes-minimal-studs-blinglane-1.webp?v=1701399072&width=535",
+            "hoverImage": "https://blinglane.com/cdn/shop/files/multi-shapes-minimal-studs-blinglane-2.webp?v=1701399074&width=535",
+            "subname": "New Delhi Warehouse",
+            "name": "Multi Shapes Minimal Studs",
+            "price": "₹ 1,295"
+        },
+        {
+            "id": 13,
+            "image": "https://blinglane.com/cdn/shop/products/enticing-elite-hoop-earrings-blinglane-1.webp?v=1701399082&width=535",
+            "hoverImage": "https://blinglane.com/cdn/shop/files/enticing-elite-hoop-earrings-blinglane-2.webp?v=1701399083&width=535",
+            "subname": "New Delhi Warehouse",
+            "name": "Enticing Elite Hoop Earrings",
+            "price": "₹ 2,195"
+        },
+        {
+            "id": 14,
+            "image": "https://blinglane.com/cdn/shop/products/key-to-elegance-minimal-ring-blinglane-1.jpg?v=1701398803&width=535",
+            "hoverImage": "https://blinglane.com/cdn/shop/products/key-to-elegance-minimal-ring-blinglane-2.jpg?v=1701398805&width=535",
+            "subname": "New Delhi Warehouse",
+            "name": "Key To Elegance Minimal Ring",
+            "price": "₹ 1,095"
+        },
+        {
+            "id": 15,
+            "image": "https://blinglane.com/cdn/shop/files/feel-the-rhythm-studs-blinglane-1.png?v=1701398435&width=535",
+            "hoverImage": "https://blinglane.com/cdn/shop/products/feel-the-rhythm-studs-blinglane-2.jpg?v=1701398436&width=535",
+            "subname": "New Delhi Warehouse",
+            "name": "Feel The Rhythm Studs",
+            "price": "₹ 1,295"
+        },
+        {
+            "id": 16,
+            "image": "https://blinglane.com/cdn/shop/products/you-are-my-dreamy-night-forever-love-bands-blinglane-1.jpg?v=1701399063&width=535",
+            "hoverImage": "https://blinglane.com/cdn/shop/products/you-are-my-dreamy-night-forever-love-bands-blinglane-2.jpg?v=1701399064&width=535",
+            "subname": "New Delhi Warehouse",
+            "name": "You Are My Dreamy Night Forever Love Bands",
+            "price": "₹3,295"
+        },
+        {
+            "id": 17,
+            "image": "https://blinglane.com/cdn/shop/products/imperfectly-perfect-heart-necklace-blinglane-1.jpg?v=1701398595&width=535",
+            "hoverImage": "https://blinglane.com/cdn/shop/products/imperfectly-perfect-heart-necklace-blinglane-2.jpg?v=1701398596&width=535",
+            "subname": "New Delhi Warehouse",
+            "name": "Imperfectly Perfect Heart Necklace",
+            "price": "₹ 1,502"
+        },
+        {
+            "id": 18,
+            "image": "https://blinglane.com/cdn/shop/products/fly-around-me-studs-blinglane-1.jpg?v=1701398405&width=535",
+            "hoverImage": "https://blinglane.com/cdn/shop/products/fly-around-me-studs-blinglane-2.jpg?v=1701398406&width=535",
+            "subname": "New Delhi Warehouse",
+            "name": "Fly Around Me Studs",
+            "price": "₹ 995"
+        },
+        {
+            "id": 19,
+            "image": "https://blinglane.com/cdn/shop/products/my-love-for-you-ele-necklace-blinglane-1.jpg?v=1701398381&width=535",
+            "hoverImage": "https://blinglane.com/cdn/shop/products/my-love-for-you-ele-necklace-blinglane-2.jpg?v=1701398383&width=535",
+            "subname": "New Delhi Warehouse",
+            "name": "My Love For You Ele Necklace",
+            "price": "₹ 2,195"
+        },
+        {
+            "id": 20,
+            "image": "https://blinglane.com/cdn/shop/products/enchanted-vertical-bar-necklace-blinglane-1.jpg?v=1701398602&width=535",
+            "hoverImage": "https://blinglane.com/cdn/shop/products/enchanted-vertical-bar-necklace-blinglane-2.jpg?v=1701398603&width=535",
+            "subname": "New Delhi Warehouse",
+            "name": "Enchanted Vertical Bar Necklace",
+            "price": "₹ 2,385"
         },
         {
             "id":21,
-            "image":"https://blinglane.com/cdn/shop/products/elite-infinity-solitaire-necklace-blinglane-1.jpg?v=1701398761&width=535",
-            "image_name":"Infinity"
+            "image":"https://blinglane.com/cdn/shop/products/pulchritudinous-leaves-bracelet-blinglane-1.jpg?v=1701398503&width=535",
+            "hoverImage":"https://blinglane.com/cdn/shop/products/pulchritudinous-leaves-bracelet-blinglane-2.jpg?v=1701398505&width=535",
+            "subname":"New Delhi Warehouse",
+            "name":"Pulchritudinous Leaves Bracelet",
+            "price":"₹3,326"
         },
         {
             "id":22,
-            "image":"https://blinglane.com/cdn/shop/products/minimal-initial-stackable-ring-blinglane-1.jpg?v=1701398993&width=535",
-            "image_name":"Initials"
+            "image":"https://blinglane.com/cdn/shop/products/cloaked-in-your-shell-neckpiece-blinglane-1.jpg?v=1701398381&width=535",
+            "hoverImage":"https://blinglane.com/cdn/shop/products/cloaked-in-your-shell-neckpiece-blinglane-2.jpg?v=1701398382&width=535",
+            "subname":"New Delhi Warehouse",
+            "name":"Cloaked In Your Shell Neckpiece",
+            "price":"₹3,966"
         },
         {
             "id":23,
-            "image":"https://blinglane.com/cdn/shop/products/minimal-butterfly-studs-blinglane-1.jpg?v=1701398223&width=535",
-            "image_name":"Kids"
+            "image":"https://blinglane.com/cdn/shop/products/glowing-daisy-studs-blinglane-1.jpg?v=1701398594&width=535",
+            "hoverImage":"https://blinglane.com/cdn/shop/products/glowing-daisy-studs-blinglane-2.jpg?v=1701398596&width=535",
+            "subname":"New Delhi Warehouse",
+            "name":"Glowing Daisy Studs",
+            "price":"₹ 1,095"
         },
         {
             "id":24,
-            "image":"https://blinglane.com/cdn/shop/products/rainbow-love-minimal-studs-blinglane-1.jpg?v=1701398981&width=535",
-            "image_name":"LGBTQ Pride"
-        },
-        {
-            "id":25,
-            "image":"https://blinglane.com/cdn/shop/products/waves-or-winds-together-forever-love-bands-blinglane-1.jpg?v=1701398260&width=535",
-            "image_name":"Love Bands Jewellery"
-        },
-        {
-            "id":26,
-            "image_name":"Metallic Jewellery",
-            "image_p":"Shop premium quality statement alloy metal jewellery online at Blinglane. Free shipping in India...."
-        },
-        {
-            "id":27,
-            "image":"https://blinglane.com/cdn/shop/products/minimal-solitaire-necklace-blinglane-1.jpg?v=1701398234&width=535",
-            "image_name":"Minimal Jewellery"
-        },
-        {
-            "id":28,
-            "image":"https://blinglane.com/cdn/shop/products/product-image-1766032198.jpg?v=1684987663&width=535",
-            "image_name":"New Arrivals"
-        },
-        {
-            "id":29,
-            "image":"https://blinglane.com/cdn/shop/products/personalize-your-name-necklace-blinglane-1.jpg?v=1701398302&width=535",
-            "image_name":"Personalized Jewellery"
-        },
-        {
-            "id":30,
-            "image":"https://blinglane.com/cdn/shop/products/my-precious-mermaid-necklace-blinglane-1.jpg?v=1701398123&width=535",
-            "image_name":"Rakshabandhan"
-        },
-        {
-            "id":31,
-            "image":"https://blinglane.com/cdn/shop/products/minimal-solitaire-necklace-blinglane-1.jpg?v=1701398234&width=535",
-            "image_name":"Ready to Ship"
-        },
-        {
-            "id":32,
-            "image":"https://blinglane.com/cdn/shop/products/dahlia-elite-ring-blinglane-1.jpg?v=1701398774&width=535",
-            "image_name":"Rings"
-        },
-        {
-            "id":33,
-            "image":"https://blinglane.com/cdn/shop/products/intrepid-brilliance-ring-blinglane-1.jpg?v=1701398899&width=535",
-            "image_name":"Statement"
-        },
-        {
-            "id":34,
-            "image":"https://blinglane.com/cdn/shop/products/love-initials-elite-waist-chain-blinglane-1.jpg?v=1701398116&width=535",
-            "image_name":"Waist Chains"
-        },
-        {
-            "id":35,
-            "image":"https://blinglane.com/cdn/shop/products/wanderlust-minimal-bracelet-blinglane-1.jpg?v=1701399010&width=535",
-            "image_name":"Wanderlust"
-        },
-        {
-            "id":36,
-            "image":"https://blinglane.com/cdn/shop/products/your-zodiac-constellation-bracelet-blinglane-1.jpg?v=1701398834&width=535",
-            "image_name":"Zodiac Jewellery"
+            "image":"https://blinglane.com/cdn/shop/products/knot-to-your-heart-drop-studs-blinglane-1.jpg?v=1701398061&width=535",
+            "hoverImage":"https://blinglane.com/cdn/shop/products/knot-to-your-heart-drop-studs-blinglane-2.jpg?v=1701398063&width=535",
+            "subname":"New Delhi Warehouse",
+            "name":"Knot To Your Heart Drop Studs",
+            "price":"₹ 1,525"
         }
     ]
 }
+
+                    

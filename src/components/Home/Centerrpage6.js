@@ -19,7 +19,7 @@ function Centerrpage6() {
                             </div>
                         </div>
                     </div>
-                    <div className="image_name">Stay Forever In My Heart Hoops Regular price</div>
+                    <div className="image_name_1">Stay Forever In My Heart Hoops Regular price</div>
                     <div className="price_title">
                         <span className="original_price">₹1,299<sup>.00</sup></span>
                         <div className="price">₹1,099<sup>.00</sup></div>
@@ -36,7 +36,7 @@ function Centerrpage6() {
                             </div>
                         </div>
                     </div>
-                    <div className="image_name">Adorable Aqua Mini Studs</div>
+                    <div className="image_name_1">Adorable Aqua Mini Studs</div>
 
                     <div className="price_title">
                         <span className="original_price">₹1,299<sup>.00</sup></span>
@@ -54,7 +54,7 @@ function Centerrpage6() {
                             </div>
                         </div>
                     </div>
-                    <div className="image_name">I Make My Own Luck Drop Hoops</div>
+                    <div className="image_name_1">I Make My Own Luck Drop Hoops</div>
                     <div className="price_title">
                         <span className="original_price">₹1,350<sup>.00</sup></span>
                         <div className="price">₹1,215<sup>.00</sup></div>
@@ -71,7 +71,7 @@ function Centerrpage6() {
                             </div>
                         </div>
                     </div>
-                    <div className="image_name">Snazzy Chic Huggie Ear Cuffs</div>
+                    <div className="image_name_1">Snazzy Chic Huggie Ear Cuffs</div>
                     <div className="price_title">
                         <span className="original_price">₹1,600<sup>.00</sup></span>
                         <div className="price">₹1,445<sup>.00</sup></div>

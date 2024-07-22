@@ -8,21 +8,24 @@ import Navbar from './components/Home/Navbar';
 import Slideicon from './components/Home/Slideicon'
 import Footer from './components/Home/Footer';
 import Collections from './components/Collectionspage/Collections';
+import Expresshome from './components/ExpressDelivery/Expresshome';
+import Personalizedhome from './components/Personalized-Jewellery/Personalizedhome';
+import Newarrivalshome from './components/NewArrivals/Newarrivalshome';
 
 function App() {
   return (
     <div className="App">
       <BrowserRouter>
         <Header />
-        <Navbar />
+        <Navbar/>
         <Slideicon />
         <Routes>
           <Route path="/" element={<Home />} />
           <Route path="/shop" element={<Shophome />} />
           <Route path="/collections" element={<Collections/>} />
-          <Route path="/personalize" element={<div>Personalize Page</div>} />
-          <Route path="/new-arrivals" element={<div>New Arrivals Page</div>} />
-          <Route path="/information" element={<div>Information Page</div>} />
+          <Route path="/expresshome" element={<Expresshome/>} />
+          <Route path="/Personalizedhome" element={<Personalizedhome/>} />
+          <Route path="/Newarrivals" element={<Newarrivalshome/>} />
 
           <Route path="/necklaces" element={<div>Necklaces Page</div>} />
           <Route path="/earrings" element={<div>Earrings Page</div>} />

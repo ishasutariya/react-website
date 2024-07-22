@@ -1,5 +1,6 @@
 import React, { useEffect, useState } from "react";
 import '../../style/collections.css'
+import Centerrpage from "../Shoppage/Centerrpage";
 
 function Collections() {
   const [collections, setCollections] = useState([]);
@@ -12,21 +13,24 @@ function Collections() {
   }, []);
 
   return (
-    <div className="container">
-      <h1>Collections</h1>
-      <div className="row collections-list">
-        {collections.map(collection => (
-          <div key={collection.id} className="col-12 col-md-4 collections-card">
-            <div className="image-part">
-              <img src={collection.image}  className="image-c" />
-              <div className="name-part">
-                <div>{collection.image_name}</div>
+    <>
+      <Centerrpage />
+      <div className="container">
+        <h1>Collections</h1>
+        <div className="row collections-list">
+          {collections.map(collection => (
+            <div key={collection.id} className="col-12 col-md-6 col-lg-3 collections-card">
+              <div className="image-part">
+                <img src={collection.image} className="image-c" />
+                <div className="name-part">
+                  <div className="image_name">{collection.image_name}</div>
+                </div>
               </div>
             </div>
-          </div>
-        ))}
+          ))}
+        </div>
       </div>
-    </div>
+    </>
   );
 }
 

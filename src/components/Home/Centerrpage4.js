@@ -27,7 +27,7 @@ function Centerrpage4() {
                             </div>
                         </div> 
                     </div>
-                    <div className="image_name">Minimal Solitaire Necklace – Silver</div>
+                    <div className="image_name_1">Minimal Solitaire Necklace – Silver</div>
                     <div className="price_title">
                         <span className="original_price">₹1,299<sup>.00</sup></span>
                         <div className="price">₹1,099<sup>.00</sup></div>
@@ -44,7 +44,7 @@ function Centerrpage4() {
                             </div>
                         </div>
                     </div>
-                    <div className="image_name">Minimal Pearl Necklace</div>
+                    <div className="image_name_1">Minimal Pearl Necklace</div>
                     <div className="price_title">
                         <span className="original_price">₹1,299<sup>.00</sup></span>
                         <div className="price">₹1,099<sup>.00</sup></div>
@@ -61,7 +61,7 @@ function Centerrpage4() {
                             </div>
                         </div>
                     </div>
-                    <div className="image_name">Chic Fins Minimal Hoops</div>
+                    <div className="image_name_1">Chic Fins Minimal Hoops</div>
                     <div className="price_title">
                         <span className="original_price">₹1,350<sup>.00</sup></span>
                         <div className="price">₹1,215<sup>.00</sup></div>
@@ -78,7 +78,7 @@ function Centerrpage4() {
                             </div>
                         </div>
                     </div>
-                    <div className="image_name">Dahlia on Vine Earrings</div>
+                    <div className="image_name_1">Dahlia on Vine Earrings</div>
                     <div className="price_title">
                         <span className="original_price">₹1,600<sup>.00</sup></span>
                         <div className="price">₹1,445<sup>.00</sup></div>
