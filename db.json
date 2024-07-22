@@ -892,38 +892,294 @@
             "price": "₹ 2,385"
         },
         {
-            "id":21,
-            "image":"https://blinglane.com/cdn/shop/products/pulchritudinous-leaves-bracelet-blinglane-1.jpg?v=1701398503&width=535",
-            "hoverImage":"https://blinglane.com/cdn/shop/products/pulchritudinous-leaves-bracelet-blinglane-2.jpg?v=1701398505&width=535",
-            "subname":"New Delhi Warehouse",
-            "name":"Pulchritudinous Leaves Bracelet",
-            "price":"₹3,326"
+            "id": 21,
+            "image": "https://blinglane.com/cdn/shop/products/pulchritudinous-leaves-bracelet-blinglane-1.jpg?v=1701398503&width=535",
+            "hoverImage": "https://blinglane.com/cdn/shop/products/pulchritudinous-leaves-bracelet-blinglane-2.jpg?v=1701398505&width=535",
+            "subname": "New Delhi Warehouse",
+            "name": "Pulchritudinous Leaves Bracelet",
+            "price": "₹3,326"
         },
         {
-            "id":22,
-            "image":"https://blinglane.com/cdn/shop/products/cloaked-in-your-shell-neckpiece-blinglane-1.jpg?v=1701398381&width=535",
-            "hoverImage":"https://blinglane.com/cdn/shop/products/cloaked-in-your-shell-neckpiece-blinglane-2.jpg?v=1701398382&width=535",
-            "subname":"New Delhi Warehouse",
-            "name":"Cloaked In Your Shell Neckpiece",
-            "price":"₹3,966"
+            "id": 22,
+            "image": "https://blinglane.com/cdn/shop/products/cloaked-in-your-shell-neckpiece-blinglane-1.jpg?v=1701398381&width=535",
+            "hoverImage": "https://blinglane.com/cdn/shop/products/cloaked-in-your-shell-neckpiece-blinglane-2.jpg?v=1701398382&width=535",
+            "subname": "New Delhi Warehouse",
+            "name": "Cloaked In Your Shell Neckpiece",
+            "price": "₹3,966"
         },
         {
-            "id":23,
-            "image":"https://blinglane.com/cdn/shop/products/glowing-daisy-studs-blinglane-1.jpg?v=1701398594&width=535",
-            "hoverImage":"https://blinglane.com/cdn/shop/products/glowing-daisy-studs-blinglane-2.jpg?v=1701398596&width=535",
-            "subname":"New Delhi Warehouse",
-            "name":"Glowing Daisy Studs",
-            "price":"₹ 1,095"
+            "id": 23,
+            "image": "https://blinglane.com/cdn/shop/products/glowing-daisy-studs-blinglane-1.jpg?v=1701398594&width=535",
+            "hoverImage": "https://blinglane.com/cdn/shop/products/glowing-daisy-studs-blinglane-2.jpg?v=1701398596&width=535",
+            "subname": "New Delhi Warehouse",
+            "name": "Glowing Daisy Studs",
+            "price": "₹ 1,095"
         },
         {
-            "id":24,
-            "image":"https://blinglane.com/cdn/shop/products/knot-to-your-heart-drop-studs-blinglane-1.jpg?v=1701398061&width=535",
-            "hoverImage":"https://blinglane.com/cdn/shop/products/knot-to-your-heart-drop-studs-blinglane-2.jpg?v=1701398063&width=535",
+            "id": 24,
+            "image": "https://blinglane.com/cdn/shop/products/knot-to-your-heart-drop-studs-blinglane-1.jpg?v=1701398061&width=535",
+            "hoverImage": "https://blinglane.com/cdn/shop/products/knot-to-your-heart-drop-studs-blinglane-2.jpg?v=1701398063&width=535",
+            "subname": "New Delhi Warehouse",
+            "name": "Knot To Your Heart Drop Studs",
+            "price": "₹ 1,525"
+        }
+    ],
+    "Necklace": [
+        {
+            "id": 1,
+            "image": "https://blinglane.com/cdn/shop/products/minimal-solitaire-necklace-blinglane-1.jpg?v=1701398234&width=535",
+            "hoverImage": "https://blinglane.com/cdn/shop/products/minimal-solitaire-necklace-blinglane-2.jpg?v=1701398238&width=535",
+            "subname": "New Delhi Warehouse",
+            "name": "Minimal Solitaire Necklace",
+            "price": "₹ 1,099"
+        },
+        {
+            "id": 2,
+            "image": "https://blinglane.com/cdn/shop/products/my-little-heart-minimal-necklace-blinglane-1.jpg?v=1701398201&width=535",
+            "hoverImage": "https://blinglane.com/cdn/shop/products/my-little-heart-minimal-necklace-blinglane-2.jpg?v=1701398203&width=535",
+            "subname": "New Delhi Warehouse",
+            "name": "My Little Heart Minimal Necklace",
+            "price": "₹ 1,699"
+        },
+        {
+            "id": 3,
+            "image": "https://blinglane.com/cdn/shop/products/personalize-your-name-necklace-blinglane-1.jpg?v=1701398302&width=535",
+            "hoverImage": "https://blinglane.com/cdn/shop/products/personalize-your-name-necklace-blinglane-2.jpg?v=1701398303&width=535",
+            "subname": "New Delhi Warehouse",
+            "name": "Personalize Your Name Necklace",
+            "price": "₹ 1,495"
+        },
+        {
+            "id": 4,
+            "image": "https://blinglane.com/cdn/shop/products/personalize-your-photo-and-message-engraved-necklace-blinglane-1.jpg?v=1701398275&width=535",
+            "hoverImage": "https://blinglane.com/cdn/shop/products/personalize-your-photo-and-message-engraved-necklace-blinglane-2.jpg?v=1701398277&width=535",
+            "subname": "New Delhi Warehouse",
+            "name": "Personalize Your Photo And Message Engraved Necklace",
+            "price": "₹ 1,495"
+        },
+        {
+            "id": 5,
+            "image": "https://blinglane.com/cdn/shop/products/elite-infinity-solitaire-necklace-blinglane-1.jpg?v=1701398761&width=535",
+            "hoverImage": "https://blinglane.com/cdn/shop/products/elite-infinity-solitaire-necklace-blinglane-2.jpg?v=1701398763&width=535",
+            "subname": "New Delhi Warehouse",
+            "name": "Elite Infinity Solitaire Necklace",
+            "price": "₹ 1,245"
+        },
+        {
+            "id": 6,
+            "image": "https://blinglane.com/cdn/shop/products/minimal-pearl-necklace-blinglane-1.jpg?v=1701398261&width=535",
+            "hoverImage": "https://blinglane.com/cdn/shop/products/minimal-pearl-necklace-blinglane-2.jpg?v=1701398263&width=535",
+            "subname": "New Delhi Warehouse",
+            "name": "Minimal Pearl Necklace",
+            "price": "₹ 1,099"
+        },
+        {
+            "id": 7,
+            "image": "https://blinglane.com/cdn/shop/products/luminous-star-necklace-blinglane-1.jpg?v=1701398201&width=535",
+            "hoverImage": "https://blinglane.com/cdn/shop/products/luminous-star-necklace-blinglane-2.jpg?v=1701398203&width=535",
+            "subname": "New Delhi Warehouse",
+            "name": "Luminous Star Necklace",
+            "price": "₹ 1,899"
+        },
+        {
+            "id": 8,
+            "image": "https://blinglane.com/cdn/shop/products/dahlia-elite-necklace-blinglane-1.jpg?v=1701398108&width=535",
+            "hoverImage": "https://blinglane.com/cdn/shop/products/dahlia-elite-necklace-blinglane-2.jpg?v=1701398109&width=535",
+            "subname": "New Delhi Warehouse",
+            "name": "Dahlia Elite Necklace",
+            "price": "₹ 2,299"
+        },
+        {
+            "id": 9,
+            "image": "https://blinglane.com/cdn/shop/products/eternity-hoops-necklace-blinglane-1.jpg?v=1701398108&width=535",
+            "hoverImage": "https://blinglane.com/cdn/shop/products/eternity-hoops-necklace-blinglane-2.jpg?v=1701398109&width=535",
+            "subname": "New Delhi Warehouse",
+            "name": "Eternity Hoops Necklace",
+            "price": "₹ 2,099"
+        },
+        {
+            "id": 10,
+            "image": "https://blinglane.com/cdn/shop/products/shining-snowflake-necklace-blinglane-1.jpg?v=1701398578&width=535",
+            "hoverImage": "https://blinglane.com/cdn/shop/products/shining-snowflake-necklace-blinglane-2.jpg?v=1701398579&width=535",
+            "subname": "New Delhi Warehouse",
+            "name": "Shining Snowflake Necklace",
+            "price": "₹ 2,250"
+        },
+        {
+            "id": 11,
+            "image": "https://blinglane.com/cdn/shop/products/elite-aurora-necklace-blinglane-1.jpg?v=1701399016&width=535",
+            "hoverImage": "https://blinglane.com/cdn/shop/products/elite-aurora-necklace-blinglane-2.jpg?v=1701399018&width=535",
+            "subname": "New Delhi Warehouse",
+            "name": "Elite Aurora Necklace",
+            "price": "₹ 3,295"
+        },
+        {
+            "id": 12,
+            "image": "https://blinglane.com/cdn/shop/products/swanky-leaf-minimal-necklace-blinglane-1.jpg?v=1701398061&width=535",
+            "hoverImage": "https://blinglane.com/cdn/shop/products/swanky-leaf-minimal-necklace-blinglane-2.jpg?v=1701398063&width=535",
+            "subname": "New Delhi Warehouse",
+            "name": "Swanky Leaf Minimal Necklace",
+            "price": "₹ 1,245"
+        },
+        {
+            "id": 13,
+            "image": "https://blinglane.com/cdn/shop/products/fascinating-fish-tail-necklace-blinglane-1.jpg?v=1701398397&width=535",
+            "hoverImage": "https://blinglane.com/cdn/shop/products/fascinating-fish-tail-necklace-blinglane-2.jpg?v=1701398398&width=535",
+            "subname": "New Delhi Warehouse",
+            "name": "Fascinating Fish Tail Necklace",
+            "price": "₹ 2,395"
+        },
+        {
+            "id": 14,
+            "image": "https://blinglane.com/cdn/shop/products/your-time-to-bloom-daisy-necklace-blinglane-1.jpg?v=1701398388&width=535",
+            "hoverImage": "https://blinglane.com/cdn/shop/products/your-time-to-bloom-daisy-necklace-blinglane-2.jpg?v=1701398389&width=535",
+            "subname": "New Delhi Warehouse",
+            "name": "Your Time To Bloom Daisy Necklace",
+            "price": "₹ 2,645"
+        },
+        {
+            "id": 15,
+            "image": "https://blinglane.com/cdn/shop/products/live-like-it-s-spring-daisy-necklace-blinglane-1.jpg?v=1701398053&width=535",
+            "hoverImage": "https://blinglane.com/cdn/shop/products/live-like-it-s-spring-daisy-necklace-blinglane-2.jpg?v=1701398055&width=535",
+            "subname": "New Delhi Warehouse",
+            "name": "Live Like It's Spring Daisy Necklace",
+            "price": "₹ 2,645"
+        },
+        {
+            "id": 16,
+            "image": "https://blinglane.com/cdn/shop/products/my-precious-mermaid-necklace-blinglane-1.jpg?v=1701398123&width=535",
+            "hoverImage": "https://blinglane.com/cdn/shop/products/my-precious-mermaid-necklace-blinglane-2.jpg?v=1701398125&width=535",
+            "subname": "New Delhi Warehouse",
+            "name": "My Precious Mermaid Necklace",
+            "price": "₹ 1,849"
+        },
+        {
+            "id": 17,
+            "image": "https://blinglane.com/cdn/shop/products/enchanted-moon-elite-necklace-blinglane-1.jpg?v=1702277909&width=535",
+            "hoverImage": "https://blinglane.com/cdn/shop/products/enchanted-moon-elite-necklace-blinglane-2.jpg?v=1702277909&width=535",
+            "subname": "New Delhi Warehouse",
+            "name": "Enchanted Moon Elite Necklace",
+            "price": "₹2,970"
+        },
+        {
+            "id": 18,
+            "image": "https://blinglane.com/cdn/shop/products/twinkling-butterflies-minimal-necklace-blinglane-1.jpg?v=1701398053&width=535",
+            "hoverImage": "https://blinglane.com/cdn/shop/products/twinkling-butterflies-minimal-necklace-blinglane-2.jpg?v=1701398055&width=535",
+            "subname": "New Delhi Warehouse",
+            "name": "Twinkling Butterflies Minimal Necklace",
+            "price": "₹ 2,545"
+        },
+        {
+            "id": 19,
+            "image": "https://blinglane.com/cdn/shop/products/style-and-shine-chain-blinglane-1.jpg?v=1701398743&width=535",
+            "hoverImage": "https://blinglane.com/cdn/shop/products/style-and-shine-chain-blinglane-2.jpg?v=1701398744&width=535",
+            "subname": "New Delhi Warehouse",
+            "name": "Style and Shine Chain",
+            "price": "₹ 845"
+        },
+        {
+            "id": 20,
+            "image": "https://blinglane.com/cdn/shop/products/personalize-your-name-vertical-bar-necklace-blinglane-1.jpg?v=1701398134&width=1100",
+            "hoverImage": "https://blinglane.com/cdn/shop/products/personalize-your-name-vertical-bar-necklace-blinglane-2.jpg?v=1701398135&width=1100",
+            "subname": "New Delhi Warehouse",
+            "name": "Personalize Your Name Vertical Bar Necklace",
+            "price": "₹ 1,495"
+        },
+        {
+            "id": 21,
+            "image": "https://blinglane.com/cdn/shop/products/refined-red-garnet-beads-minimal-necklace-blinglane-1.jpg?v=1701398834&width=535",
+            "hoverImage": "https://blinglane.com/cdn/shop/products/refined-red-garnet-beads-minimal-necklace-blinglane-2.jpg?v=1701398836&width=535",
+            "subname": "New Delhi Warehouse",
+            "name": "Refined Red Garnet Beads Minimal Necklace",
+            "price": "₹ 2,199"
+        },
+        {
+            "id": 22,
+            "image": "https://blinglane.com/cdn/shop/products/blossomed-necklace-blinglane-1.jpg?v=1701398609&width=535",
+            "hoverImage": "https://blinglane.com/cdn/shop/products/blossomed-necklace-blinglane-2.jpg?v=1701398611&width=535",
+            "subname": "New Delhi Warehouse",
+            "name": "Blossomed Necklace",
+            "price": "₹ 1,980"
+        },
+        {
+            "id": 23,
+            "image": "https://blinglane.com/cdn/shop/products/classy-disc-and-bar-layered-necklace-blinglane-1.jpg?v=1701398194&width=535",
+            "hoverImage": "https://blinglane.com/cdn/shop/products/classy-disc-and-bar-layered-necklace-blinglane-2.jpg?v=1701398195&width=535",
+            "subname": "New Delhi Warehouse",
+            "name": "Classy Disc & Bar Layered Necklace",
+            "price": "₹ 826"
+        },
+        {
+            "id": 24,
+            "image": "https://blinglane.com/cdn/shop/products/there-s-a-rainbow-in-my-heart-necklace-blinglane-1.jpg?v=1701398035&width=535",
+            "hoverImage": "https://blinglane.com/cdn/shop/products/there-s-a-rainbow-in-my-heart-necklace-blinglane-2.jpg?v=1701398037&width=535",
+            "subname": "New Delhi Warehouse",
+            "name": "There's A Rainbow In My Heart Necklace",
+            "price": "₹ 1,845"
+        },
+        {
+            "id": 25,
+            "image": "https://blinglane.com/cdn/shop/products/imperfectly-perfect-heart-necklace-blinglane-1.jpg?v=1701398595&width=535",
+            "hoverImage": "https://blinglane.com/cdn/shop/products/imperfectly-perfect-heart-necklace-blinglane-2.jpg?v=1701398596&width=535",
+            "subname": "New Delhi Warehouse",
+            "name": "Imperfectly Perfect Heart Necklace",
+            "price": "₹ 1,502"
+        },
+        {
+            "id": 26,
+            "image": "https://blinglane.com/cdn/shop/products/scintillating-solitaire-and-bar-layered-necklace-blinglane-1.jpg?v=1701398834&width=535",
+            "hoverImage": "https://blinglane.com/cdn/shop/products/scintillating-solitaire-and-bar-layered-necklace-blinglane-2.jpg?v=1701398836&width=535",
+            "subname": "New Delhi Warehouse",
+            "name": "Scintillating Solitaire & Bar Layered Necklace",
+            "price": "₹ 1,980"
+        },
+        {
+            "id": 27,
+            "image": "https://blinglane.com/cdn/shop/products/fascinating-heart-necklace-blinglane-1.jpg?v=1701398743&width=535",
+            "hoverImage": "https://blinglane.com/cdn/shop/products/fascinating-heart-necklace-blinglane-2.jpg?v=1701398745&width=535",
+            "subname": "New Delhi Warehouse",
+            "name": "Fascinating Heart Necklace",
+            "price": "₹ 1,245"
+        },
+        {
+            "id": 28,
+            "image": "https://blinglane.com/cdn/shop/products/cloaked-in-your-shell-neckpiece-blinglane-1.jpg?v=1701398381&width=535",
+            "hoverImage": "https://blinglane.com/cdn/shop/products/cloaked-in-your-shell-neckpiece-blinglane-2.jpg?v=1701398382&width=535",
+            "subname": "New Delhi Warehouse",
+            "name": "Cloaked In Your Shell Neckpiece",
+            "price": "₹3,966"
+        },
+        {
+            "id": 29,
+            "image": "https://blinglane.com/cdn/shop/products/enchanted-vertical-bar-necklace-blinglane-1.jpg?v=1701398602&width=535",
+            "hoverImage": "https://blinglane.com/cdn/shop/products/enchanted-vertical-bar-necklace-blinglane-2.jpg?v=1701398603&width=535",
+            "subname": "New Delhi Warehouse",
+            "name": "Enchanted Vertical Bar Necklace",
+            "price": "₹ 2,385"
+        },
+        {
+            "id": 30,
+            "image": "https://blinglane.com/cdn/shop/products/sexy-solitaire-necklace-blinglane-1.jpg?v=1701398770&width=535",
+            "hoverImage": "https://blinglane.com/cdn/shop/products/sexy-solitaire-necklace-blinglane-2.jpg?v=1701398771&width=535",
+            "subname": "New Delhi Warehouse",
+            "name": "Solitaire Necklace",
+            "price": "₹ 1,980"
+        },
+        {
+            "id": 31,
+            "image": "https://blinglane.com/cdn/shop/products/my-love-for-you-ele-necklace-blinglane-1.jpg?v=1701398381&width=535",
+            "hoverImage": "https://blinglane.com/cdn/shop/products/my-love-for-you-ele-necklace-blinglane-2.jpg?v=1701398383&width=535",
+            "subname": "New Delhi Warehouse",
+            "name": "My Love For You Ele Necklace",
+            "price": "₹ 2,195"
+        },
+        {
+            "id":32,
+            "image":"https://blinglane.com/cdn/shop/products/deep-in-your-waves-necklace-blinglane-1.jpg?v=1701398488&width=535",
+            "hoverImage":"https://blinglane.com/cdn/shop/products/deep-in-your-waves-necklace-blinglane-2.jpg?v=1701398489&width=535",
             "subname":"New Delhi Warehouse",
-            "name":"Knot To Your Heart Drop Studs",
-            "price":"₹ 1,525"
+            "name":"Deep In Your Waves Necklace",
+            "price":"₹1,297"
         }
     ]
 }
-
-                    

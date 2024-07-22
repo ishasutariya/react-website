@@ -1,6 +1,8 @@
 import React, { useEffect, useState } from "react";
 function Expressdelivery() {
     const [express, setexpress] = useState([])
+    const [visibleProducts, setVisibleProducts] = useState(12);
+
 
     useEffect(() => {
         fetch("http://localhost:4000/ExpressDelivery")
@@ -15,13 +17,17 @@ function Expressdelivery() {
             })
     }, []);
 
+
+    const handleShowMore = () => {
+        setVisibleProducts(prevVisibleProducts => prevVisibleProducts + 12);
+    };
     return (
         <div className="container">
             <div className="express">
                 <h3>Personalized Jewellery     </h3>
             </div>
             <div className="row product-list">
-                {express.map(expres => (
+                {express.slice(0,visibleProducts).map(expres => (
                     <div key={expres.id} className="col-12 col-lg-6 product-card">
                         <div className="image-container">
                             <img src={expres.image} alt={expres.name} className="default-image" />
@@ -34,6 +40,7 @@ function Expressdelivery() {
                             </div>
                         </div>
                         <div className="product-details">
+                            <p>{expres.subname}</p>
                             <h3>{expres.name}</h3>
                             <p>{expres.price}.<sup>00</sup></p>
                         </div>
@@ -41,6 +48,11 @@ function Expressdelivery() {
                 ))}
 
             </div>
+            {visibleProducts < express.length && (
+                <div className="show-more-button">
+                    <div onClick={handleShowMore}>SHOW MORE</div>
+                </div>
+            )}
         </div>
     )
 }

@@ -107,7 +107,7 @@ function Footer() {
                             <h4>SUBSCRIBE TO AWESOMENESS</h4>
                         </div>
                         <div>
-                            <input type="text" placeholder="Enter email here" />
+                            <input type="text" placeholder="Enter email here" className="inputtext"/>
                         </div>
                         <div>
                             <p>Join our social community & get special deals, offers, inspirations and new arrival notifications straight to your inbox.</p>

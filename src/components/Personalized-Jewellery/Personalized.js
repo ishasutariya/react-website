@@ -3,6 +3,8 @@ import React, { useEffect, useState } from "react";
 
 function Personalized() {
     const [Personalize, setPersonalized] = useState([])
+    const [visibleProducts, setVisibleProducts] = useState(12);
+
 
     useEffect(() => {
         fetch("http://localhost:4000/PersonalizedJewellery")
@@ -12,13 +14,17 @@ function Personalized() {
                 console.log(error)
             })
     }, [])
+
+    const handleShowMore = () => {
+        setVisibleProducts(prevVisibleProducts => prevVisibleProducts + 12);
+    };
     return (
         <div className="container">
             <div>
                 <h3>Personalized Jewellery</h3>
             </div>
             <div className="row product-list">
-                {Personalize.map(personalize => (
+                {Personalize.slice(0,visibleProducts).map(personalize => (
                     <div key={personalize.id} className="col-12 col-lg-6 product-card">
                         <div className="image-container">
                             <img src={personalize.image} alt={personalize.name} className="default-image" />
@@ -31,6 +37,7 @@ function Personalized() {
                             </div>
                         </div>
                         <div className="product-details">
+                            <p>{personalize.subname}</p>
                             <h3>{personalize.name}</h3>
                             <p>{personalize.price}.<sup>00</sup></p>
                         </div>
@@ -38,6 +45,11 @@ function Personalized() {
                 ))}
 
             </div>
+            {visibleProducts < Personalize.length && (
+                <div className="show-more-button">
+                    <div onClick={handleShowMore}>SHOW MORE</div>
+                </div>
+            )}
         </div>
     )
 }

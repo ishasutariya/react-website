@@ -19,7 +19,7 @@ function Navbar() {
                                     <div className='rows'>
                                         <header>Jewelry</header>
                                         <ul className='mega-link'>
-                                            <li><a href='#' className='menu'>Necklaces</a></li>
+                                            <li><a href='/necklaces' className='menu'>Necklaces</a></li>
                                             <li><a href='#' className='menu'>Earrings</a></li>
                                             <li><a href='#' className='menu'>Rings</a></li>
                                             <li><a href='#' className='menu'>Bracelets</a></li>
@@ -72,11 +72,11 @@ function Navbar() {
                                 <li><a href='#' className='menu'>Ear Huggies</a></li>
                             </ul>
                         </li>
-                        <li><a href='/expresshome'className='menu'>Express Delivery</a></li>
-                        <li><a href='/Personalizedhome'className='menu'>Personalize</a></li>
-                        <li><a href='/Newarrivals'className='menu'>New Arrivals</a></li>
+                        <li><a href='/expresshome' className='menu'>Express Delivery</a></li>
+                        <li><a href='/Personalizedhome' className='menu'>Personalize</a></li>
+                        <li><a href='/Newarrivals' className='menu'>New Arrivals</a></li>
                         <li>
-                            <a href='#' className='menu'>Information</a>
+                            <a href='/Informationhome' className='menu'>Information</a>
                             <ul className='drop-menu'>
                                 <li><a href='#' className='menu'>Jewellery Blog</a></li>
                                 <li><a href='#' className='menu'>Lookbook</a></li>

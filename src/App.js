@@ -11,7 +11,8 @@ import Collections from './components/Collectionspage/Collections';
 import Expresshome from './components/ExpressDelivery/Expresshome';
 import Personalizedhome from './components/Personalized-Jewellery/Personalizedhome';
 import Newarrivalshome from './components/NewArrivals/Newarrivalshome';
-
+import Informationhome from './components/Information/Informationhome'
+import Necklacehome from './components/Shoppage/Necklace/Necklacehome';
 function App() {
   return (
     <div className="App">
@@ -22,12 +23,12 @@ function App() {
         <Routes>
           <Route path="/" element={<Home />} />
           <Route path="/shop" element={<Shophome />} />
+          <Route path="/necklaces" element={<Necklacehome />} />
           <Route path="/collections" element={<Collections/>} />
           <Route path="/expresshome" element={<Expresshome/>} />
           <Route path="/Personalizedhome" element={<Personalizedhome/>} />
           <Route path="/Newarrivals" element={<Newarrivalshome/>} />
-
-          <Route path="/necklaces" element={<div>Necklaces Page</div>} />
+          <Route path="/Informationhome" element={<Informationhome/>} />
           <Route path="/earrings" element={<div>Earrings Page</div>} />
           <Route path="/rings" element={<div>Rings Page</div>} />
           <Route path="/bracelets" element={<div>Bracelets Page</div>} />

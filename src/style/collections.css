@@ -48,22 +48,13 @@ h1 {
 .name-part {
     box-shadow: inset 0 -208px 195px rgba(0, 0, 0, 0.2);
     position: absolute;
-    /* padding: 15px 0px 40px; */
     bottom: 0;
     width: 100%;
     z-index: 1;
     left: 0;
     top: 0;
     display: flex;
-    /* 
-    
-    box-shadow: inset -200px 0 100px rgba(0, 0, 0, 0.2),
-        inset 200px 0 100px rgba(0, 0, 0, 0.2); */
 }
-
-/* .name-part:hover {
-    background: rgba(0, 0, 0, 0.7);
-} */
 
 .image_name {
     position: absolute;

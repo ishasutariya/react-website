@@ -86,7 +86,7 @@ footer {
     font-size: 12px;
 }
 
-input {
+.inputtext  {
     background-color: #DBE2E9;
     border: none;
     margin: 20px 0px;
@@ -470,7 +470,7 @@ input {
     }
 
     .data {
-        display: inline-block;
+        display:block;
         justify-content: center;
         align-items: center;
         text-align: center;
@@ -487,7 +487,7 @@ input {
     .side_detalis {
         text-align: start;
         display: block;
-        width: 80%;
+        width: 70%;
         justify-content: center;
         text-align: center;
         align-items: center;

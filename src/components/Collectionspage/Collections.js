@@ -1,6 +1,9 @@
 import React, { useEffect, useState } from "react";
 import '../../style/collections.css'
 import Centerrpage from "../Shoppage/Centerrpage";
+import Centerrpage4 from "../Home/Centerrpage4";
+import Centerrpage6 from "../Home/Centerrpage6";
+import Centerrpage3 from "../Home/Centerrpage3";
 
 function Collections() {
   const [collections, setCollections] = useState([]);
@@ -30,6 +33,9 @@ function Collections() {
           ))}
         </div>
       </div>
+      <Centerrpage4 />
+      <Centerrpage6 />
+      <Centerrpage3 />
     </>
   );
 }

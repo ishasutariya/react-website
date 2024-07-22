@@ -1,0 +1,144 @@
+.from_title h1 {
+    font-size: 30px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-weight: 400;
+    text-align: justify;
+}
+.from_form input,
+.from_form textarea {
+    width: 100%;
+    color: lightslategray;
+    margin: 15px 0px;
+    padding: 10px 0px;
+    padding-left: 20px;
+    font-family: serif;
+    font-size: 15px;
+    border: 1px solid lightgray;
+}
+
+.from_form textarea {
+    padding: 20px 0px;
+    padding-left: 20px;
+}
+
+.from_form input:hover {
+    border: 2px solid lightgray;
+}
+
+.from_form textarea:hover {
+    border: 2px solid lightgray;
+}
+
+.from_btn {
+    width: 25%;
+    margin: 15px 0px;
+    background-color: #000;
+    border: none;
+    padding: 10px;
+}
+
+.btn:hover {
+    color: #fff;
+}
+
+.btn {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    letter-spacing: 1px;
+    color: #fff;
+    font-size: 12px;
+}
+
+.from_description {
+    text-align: justify;
+}
+
+.from_description p {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 15px;
+    letter-spacing: 1px;
+    margin: 20px 0px;
+}
+
+.from_description p a {
+    color: #565657;
+    text-decoration: none;
+    font-size: 15px;
+    border-bottom: 1px solid #565657;
+    padding: 3px 0px;
+}
+
+/* 
+.from_description p a:after {
+    transform: scaleX(1);
+    transform-origin: bottom left;
+    content: '';
+    position: absolute;
+    width: 100%;
+    transform: scaleX(0);
+    height: 2px;
+    bottom: 0;
+    left: 0;
+    background-color: #fff;
+    transform-origin: bottom right;
+    transition: transform 0.25s ease-out;
+}
+
+.from_description p a:after:hover .from_description p a:after {
+    transform: scaleX(1);
+    transform-origin: bottom left;
+} */
+.form_data {
+    align-items: center;
+    line-height: 200%;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.form_data h6 {
+    text-align: justify;
+    color: #1A1B18;
+    font-size: 18px;
+}
+
+.form_data p {
+    color: #212326;
+    font-size: 13px;
+    text-align: justify;
+}
+
+.form_data .social_icons {
+    text-align: justify;
+}
+
+.form_data .social_icons a i {
+    padding: 0px 20px 0px 0px;
+    color: #000;
+}
+
+.location {
+    margin: 50px 0px 0px 0px;
+}
+@media only screen and (max-width:650px) and (min-width:425px){
+    .from_btn{
+        width: 50%;
+    }
+    
+}
+@media only screen and (max-width:425px) and (min-width:375px) {
+    .from_title h1 {
+        font-size: 20px;
+    }
+
+    .from_btn {
+        width: 100%;
+    }
+}
+
+@media only screen and (max-width:375px) and (min-width:320px) {
+    .from_title h1 {
+        font-size: 15px;
+    }
+
+    .from_btn {
+        width: 100%;
+    }
+}

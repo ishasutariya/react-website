@@ -3,6 +3,8 @@ import '../../style/products.css';
 
 function Newarrivals() {
     const [NewArrivals, setNewArrivals] = useState([]);
+    const [visibleProducts, setVisibleProducts] = useState(12);
+
 
     useEffect(() => {
         console.log('Fetching data from server...');
@@ -19,13 +21,17 @@ function Newarrivals() {
                 console.error('Error fetching data:', error);
             });
     }, []);
+    
+    const handleShowMore = () => {
+        setVisibleProducts(prevVisibleProducts => prevVisibleProducts + 12);
+    };
     return (
         <div className="container">
             <div className="col-md-12">
                 <h1 className="NewArrivals">New Arrivals</h1>
             </div>
             <div className="row product-list">
-                {NewArrivals.map(NewArrival => (
+                {NewArrivals.slice(0,visibleProducts).map(NewArrival => (
                     <div key={NewArrival.id} className="col-12 col-lg-6 product-card">
                         <div className="image-container">
                             <img src={NewArrival.image} alt={NewArrival.name} className="default-image" />
@@ -38,13 +44,18 @@ function Newarrivals() {
                             </div>
                         </div>
                         <div className="product-details">
+                            <p>{NewArrival.subname}</p>
                             <h3>{NewArrival.name}</h3>
                             <p>{NewArrival.price}.<sup>00</sup></p>
                         </div>
                     </div>
                 ))}
             </div>
-
+            {visibleProducts < NewArrivals.length && (
+                <div className="show-more-button">
+                    <div onClick={handleShowMore}>SHOW MORE</div>
+                </div>
+            )}
         </div>
     )
 }
