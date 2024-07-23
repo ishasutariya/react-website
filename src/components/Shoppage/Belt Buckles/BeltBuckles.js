@@ -1,20 +1,18 @@
 import React, { useEffect, useState } from "react";
-import '../../style/products.css';
-
-function Products() {
-    const [products, setProducts] = useState([]);
-    const [visibleProducts, setVisibleProducts] = useState(8); 
+function BeltBuckles() {
+    const [BelthBukles, setBelthBukles] = useState([]);
+    const [visibleProducts, setVisibleProducts] = useState(8);
 
     useEffect(() => {
         console.log('Fetching data from server...');
-        fetch('http://localhost:4000/cards')
+        fetch('http://localhost:4000/BeltBuckles')
             .then(response => {
                 console.log('Response received:', response);
                 return response.json();
             })
             .then(data => {
                 console.log('Data received:', data);
-                setProducts(data);
+                setBelthBukles(data);
             })
             .catch(error => {
                 console.error('Error fetching data:', error);
@@ -24,18 +22,17 @@ function Products() {
     const handleShowMore = () => {
         setVisibleProducts(prevVisibleProducts => prevVisibleProducts + 8);
     };
-
     return (
         <div className="container">
             <div className="col-md-12">
-                <h1 className="products">Products</h1>
+                <h1 className="products">BelthBukles</h1>
             </div>
             <div className="row product-list">
-                {products.slice(0, visibleProducts).map(product => (
-                    <div key={product.id} className="col-12 col-lg-6 product-card">
+                {BelthBukles.slice(0, visibleProducts).map(BelthBukle => (
+                    <div key={BelthBukle.id} className="col-12 col-lg-6 product-card">
                         <div className="image-container">
-                            <img src={product.image} alt={product.name} className="default-image" />
-                            <img src={product.hoverImage} alt={product.name} className="hover-image" />
+                            <img src={BelthBukle.image} alt={BelthBukle.name} className="default-image" />
+                            <img src={BelthBukle.hoverImage} alt={BelthBukle.name} className="hover-image" />
                             <div className="hover_card1">
                                 <div className="hover_text1">Add To Cart</div>
                                 <div className="hover_icon1">
@@ -44,20 +41,19 @@ function Products() {
                             </div>
                         </div>
                         <div className="product-details">
-                            <p>{product.subname}</p>
-                            <h3>{product.name}</h3>
-                            <p>{product.price}.<sup>00</sup></p>
+                            <p>{BelthBukle.subname}</p>
+                            <h3>{BelthBukle.name}</h3>
+                            <p>{BelthBukle.price}.<sup>00</sup></p>
                         </div>
                     </div>
                 ))}
             </div>
-            {visibleProducts < products.length && (
+            {visibleProducts < BelthBukles.length && (
                 <div className="show-more-button">
                     <div onClick={handleShowMore}>SHOW MORE</div>
                 </div>
             )}
         </div>
-    );
+    )
 }
-
-export default Products;
+export default BeltBuckles;

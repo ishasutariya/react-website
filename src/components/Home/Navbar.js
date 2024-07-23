@@ -1,4 +1,3 @@
-// src/components/Navbar.js
 import React from 'react';
 import '../../style/navbar.css';
 import logo from '../../images/logo.webp';
@@ -20,20 +19,18 @@ function Navbar() {
                                         <header>Jewelry</header>
                                         <ul className='mega-link'>
                                             <li><a href='/necklaces' className='menu'>Necklaces</a></li>
-                                            <li><a href='#' className='menu'>Earrings</a></li>
-                                            <li><a href='#' className='menu'>Rings</a></li>
-                                            <li><a href='#' className='menu'>Bracelets</a></li>
-                                            <li><a href='#' className='menu'>Anklets</a></li>
+                                            <li><a href='/earrings' className='menu'>Earrings</a></li>
+                                            <li><a href='/bracelets' className='menu'>Bracelets</a></li>
+                                            <li><a href='/rings' className='menu'>Rings</a></li>
+                                            <li><a href='/anklets' className='menu'>Anklets</a></li>
                                         </ul>
                                     </div>
                                     <div className='rows'>
                                         <header>Accessories</header>
                                         <ul className='mega-link'>
-                                            <li><a href='#' className='menu'>Necklaces</a></li>
-                                            <li><a href='#' className='menu'>Earrings</a></li>
-                                            <li><a href='#' className='menu'>Rings</a></li>
-                                            <li><a href='#' className='menu'>Bracelets</a></li>
-                                            <li><a href='#' className='menu'>Anklets</a></li>
+                                            <li><a href='/BeltBuckles' className='menu'>Belt Buckles</a></li>
+                                            <li><a href='/Brooches' className='menu'>Brooches</a></li>
+                                            <li><a href='/Cartilage' className='menu'>Cartilage</a></li>
                                         </ul>
                                     </div>
                                     <div className='image-section'>

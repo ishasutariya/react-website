@@ -13,6 +13,13 @@ import Personalizedhome from './components/Personalized-Jewellery/Personalizedho
 import Newarrivalshome from './components/NewArrivals/Newarrivalshome';
 import Informationhome from './components/Information/Informationhome'
 import Necklacehome from './components/Shoppage/Necklace/Necklacehome';
+import Earringshome from './components/Shoppage/Earrings/Earringshome';
+import Braceletshome from './components/Shoppage/Bracelets/Braceletshome';
+import Ringshome from './components/Shoppage/Rings/Ringshome';
+import Ankletshome from './components/Shoppage/Anklets/Ankletshome';
+import Belthhome from './components/Shoppage/Belt Buckles/Belthome';
+import Brooches from './components/Shoppage/Brooches/Brooches';
+import Cartilage from './components/Shoppage/Cartilage/Cartilage';
 function App() {
   return (
     <div className="App">
@@ -24,15 +31,19 @@ function App() {
           <Route path="/" element={<Home />} />
           <Route path="/shop" element={<Shophome />} />
           <Route path="/necklaces" element={<Necklacehome />} />
+          <Route path="/earrings" element={<Earringshome/>} />
+          <Route path="/bracelets" element={<Braceletshome/>} />
+          <Route path="/rings" element={<Ringshome/>} />
+          <Route path="/anklets" element={<Ankletshome/>} />
+          <Route path='/BeltBuckles'  element={<Belthhome/>}/>
+          <Route path='/Brooches'  element={<Brooches/>} />
+          <Route path='/Cartilage' element={<Cartilage/>}  />
+ 
           <Route path="/collections" element={<Collections/>} />
           <Route path="/expresshome" element={<Expresshome/>} />
           <Route path="/Personalizedhome" element={<Personalizedhome/>} />
           <Route path="/Newarrivals" element={<Newarrivalshome/>} />
           <Route path="/Informationhome" element={<Informationhome/>} />
-          <Route path="/earrings" element={<div>Earrings Page</div>} />
-          <Route path="/rings" element={<div>Rings Page</div>} />
-          <Route path="/bracelets" element={<div>Bracelets Page</div>} />
-          <Route path="/anklets" element={<div>Anklets Page</div>} />
 
         </Routes>
         <Footer />

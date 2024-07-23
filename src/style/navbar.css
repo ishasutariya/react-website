@@ -89,6 +89,7 @@ nav .wrapper {
 }
 
 ul .mega-link {
+    width: 150px;
     padding: 0px !important;
 }
 
@@ -162,7 +163,6 @@ header {
     nav .wrapper {
         max-width: 1400px;
         background-color: #ffffff;
-        /* padding: 0 30px; */
         display: flex;
         justify-content: space-evenly;
         align-items: center;
@@ -234,6 +234,8 @@ header {
 @media only screen and (max-width:1125px) and (min-width:1000px){
     .mega-box {
         width: 100%;
+        display: inline-block;
+        justify-content: center;
     }
     .mega-box .content {
         max-width: 1100px;
