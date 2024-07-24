@@ -24,7 +24,7 @@ function Expressdelivery() {
     return (
         <div className="container">
             <div className="express">
-                <h3>Personalized Jewellery     </h3>
+                <h3>Jewellery</h3>
             </div>
             <div className="row product-list">
                 {express.slice(0,visibleProducts).map(expres => (

@@ -42,7 +42,7 @@ nav .wrapper {
 .nav-link li a {
     text-decoration: none;
     color: #000000;
-    font-family: 'Font Name', sans-serif;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     letter-spacing: 1px;
     padding: 0px 20px;
 }
@@ -83,7 +83,7 @@ nav .wrapper {
 
 .drop-menu li a {
     width: 100%;
-    font-family: 'Font Name', sans-serif;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     display: block;
     padding: 0 0 0 15px;
 }

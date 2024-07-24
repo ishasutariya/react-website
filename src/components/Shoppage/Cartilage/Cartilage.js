@@ -3,11 +3,11 @@ import Centerrpage from "../Centerrpage";
 import Centerrpage4 from "../../Home/Centerrpage4";
 import Centerrpage6 from "../../Home/Centerrpage6";
 import Centerrpage3 from "../../Home/Centerrpage3";
+
 function Cartilage() {
     const [Cartilages, setCartilages] = useState([])
     const [visibleProducts, setVisibleProducts] = useState(8);
-
-
+    
     useEffect(() => {
         fetch("http://localhost:4000/Cartilage")
             .then(res => res.json())
@@ -16,6 +16,7 @@ function Cartilage() {
     const handleShowMore = () => {
         setVisibleProducts(prevVisibleProducts => prevVisibleProducts + 8);
     };
+
     return (
         <>
         <Centerrpage/>
@@ -58,3 +59,6 @@ function Cartilage() {
     )
 }
 export default Cartilage;
+
+
+

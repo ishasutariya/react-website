@@ -1,10 +1,12 @@
-import React from 'react';
+import React, { useContext } from 'react';
 import '../../style/navbar.css';
 import logo from '../../images/logo.webp';
 import shop_image from '../../images/shop_image.avif';
 import shop_image1 from '../../images/shop_image1.avif';
+import { CartContext } from '../CartContext/ContextProvider';
 
 function Navbar() {
+    const {cart} = useContext(CartContext)
     return (
         <div>
             <nav>
@@ -55,13 +57,13 @@ function Navbar() {
                         <li>
                             <a href='/collections' className='menu'>Collections</a>
                             <ul className='drop-menu'>
-                                <li><a href='#' className='menu'>Best Sellers</a></li>
-                                <li><a href='#' className='menu'>Express Delivery</a></li>
+                                <li><a href='/expresshome' className='menu'>Best Sellers</a></li>
+                                <li><a href='/expresshome' className='menu'>Express Delivery</a></li>
                                 <li><a href='#' className='menu'>Minimal Bling</a></li>
                                 <li><a href='#' className='menu'>Elegant Bling</a></li>
-                                <li><a href='#' className='menu'>Personalize Your Jewelry</a></li>
+                                <li><a href='/Personalizedhome' className='menu'>Personalize Your Jewelry</a></li>
                                 <li><a href='#' className='menu'>Love Bands</a></li>
-                                <li><a href='#' className='menu'>Cartilage Piercing</a></li>
+                                <li><a href='/Cartilage' className='menu'>Cartilage Piercing</a></li>
                                 <li><a href='#' className='menu'>Florals</a></li>
                                 <li><a href='#' className='menu'>Butterfly Bling</a></li>
                                 <li><a href='#' className='menu'>LGBTQ Pride</a></li>
@@ -90,7 +92,7 @@ function Navbar() {
                     <div className="icons">
                         <a href="#search" className="icon-link"><i className="fas fa-search"></i></a>
                         <a href="#account" className="icon-link"><i className="fas fa-user"></i></a>
-                        <a href="#cart" className="icon-link"><i className="fas fa-shopping-cart"></i></a>
+                        <a href="/cart" className="icon-link"><i className="fas fa-shopping-cart"></i></a>{cart.length}
                     </div>
                 </div>
             </nav>
