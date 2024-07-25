@@ -28,6 +28,11 @@ function Products() {
         setSelectedProduct(null);
     };
 
+    const handleAddToCart = (event, product) => {
+        event.stopPropagation();
+        dispatch({ type: "Add", product });
+    };
+
     return (
         <div className="container">
             <div className="col-md-12">
@@ -40,7 +45,7 @@ function Products() {
                             <img src={product.image} alt={product.name} className="default-image" />
                             <img src={product.hoverImage} alt={product.name} className="hover-image" />
                             <div className="hover_card1">
-                                <div className="hover_text1" onClick={() => dispatch({ type: "Add", product })}>
+                                <div className="hover_text1" onClick={(event) => handleAddToCart(event, product)}>
                                     Add To Cart
                                 </div>
                                 <div className="hover_icon1">
@@ -51,7 +56,7 @@ function Products() {
                         <div className="product-details">
                             <p>{product.subname}</p>
                             <h3>{product.name}</h3>
-                            <p>{product.price}.<sup>00</sup></p>
+                            <p>₹{product.price}.<sup>00</sup></p>
                         </div>
                     </div>
                 ))}
@@ -71,7 +76,7 @@ function Products() {
                         </div>
                         <h3>{selectedProduct.name}</h3>
                         <p>{selectedProduct.subname}</p>
-                        <p>{selectedProduct.price}.<sup>00</sup></p>
+                        <p>₹{selectedProduct.price}.<sup>00</sup></p>
                     </div>
                 </div>
             )}

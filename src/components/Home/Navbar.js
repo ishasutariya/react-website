@@ -6,7 +6,7 @@ import shop_image1 from '../../images/shop_image1.avif';
 import { CartContext } from '../CartContext/ContextProvider';
 
 function Navbar() {
-    const {cart} = useContext(CartContext)
+    const { cart } = useContext(CartContext)
     return (
         <div>
             <nav>
@@ -38,9 +38,11 @@ function Navbar() {
                                     <div className='image-section'>
                                         <div className='rows'>
                                             <div className='mega-link-image'>
-                                                <img src={shop_image} className="shop_image" />
-                                                <p><a href='#'>PERSONALIZE YOUR JEWELRY</a></p>
-                                                <p><a href='#'>Shop Now!</a></p>
+                                                <a href='/Personalizedhome'>
+                                                    <img src={shop_image} className="shop_image" />
+                                                    <p><a href='#'>PERSONALIZE YOUR JEWELRY</a></p>
+                                                    <p><a href='#'>Shop Now!</a></p>
+                                                </a>
                                             </div>
                                         </div>
                                         <div className='rows'>
@@ -59,10 +61,10 @@ function Navbar() {
                             <ul className='drop-menu'>
                                 <li><a href='/expresshome' className='menu'>Best Sellers</a></li>
                                 <li><a href='/expresshome' className='menu'>Express Delivery</a></li>
-                                <li><a href='#' className='menu'>Minimal Bling</a></li>
-                                <li><a href='#' className='menu'>Elegant Bling</a></li>
+                                <li><a href='/Minimal' className='menu'>Minimal Bling</a></li>
+                                <li><a href='/Elegant' className='menu'>Elegant Bling</a></li>
                                 <li><a href='/Personalizedhome' className='menu'>Personalize Your Jewelry</a></li>
-                                <li><a href='#' className='menu'>Love Bands</a></li>
+                                <li><a href='/Lovedands' className='menu'>Love Bands</a></li>
                                 <li><a href='/Cartilage' className='menu'>Cartilage Piercing</a></li>
                                 <li><a href='#' className='menu'>Florals</a></li>
                                 <li><a href='#' className='menu'>Butterfly Bling</a></li>

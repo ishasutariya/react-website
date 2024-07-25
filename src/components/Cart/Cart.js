@@ -7,7 +7,6 @@ import { totalItem, totalprice } from "../CartContext/CartReducer";
 const Cart = () => {
     const { cart } = useContext(CartContext);
 
-    console.log("Total Price:", totalprice(cart)); 
     return (
         <div className="container">
             <div className="row">
@@ -20,9 +19,9 @@ const Cart = () => {
                         ))
                     )}
                 </div>
-                <div className="col-12 mt-4">
+                <div className="col-12 m-6">
                     <h5>Total Items: {totalItem(cart)}</h5>
-                    <h5>Total Price: ₹{totalprice(cart).toFixed(2)}</h5>
+                    <h5>Total Price: ₹{totalprice(cart)}</h5>
                 </div>
             </div>
         </div>
@@ -30,3 +29,4 @@ const Cart = () => {
 };
 
 export default Cart;
+

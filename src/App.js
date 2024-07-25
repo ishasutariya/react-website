@@ -22,6 +22,9 @@ import Brooches from './components/Shoppage/Brooches/Brooches';
 import Cartilage from './components/Shoppage/Cartilage/Cartilage';
 import Cart from './components/Cart/Cart';
 import ContextProvider from './components/CartContext/ContextProvider';
+import Minimal from './components/Collectionspage/Minimal Jewellery/Minimal';
+import Elegant from './components/Collectionspage/Elegant/Elegant';
+import Lovedands from './components/Collectionspage/Love-Bands/Lovedands';
 
 function App() {
   return (
@@ -44,6 +47,10 @@ function App() {
             <Route path='/Cartilage' element={<Cartilage />} />
 
             <Route path="/collections" element={<Collections />} />
+            <Route path='/Minimal' element={<Minimal/>} />
+            <Route path='/Elegant' element={<Elegant/>} />
+            <Route path='/Lovedands' element={<Lovedands/>}  />
+
             <Route path="/expresshome" element={<Expresshome />} />
             <Route path="/Personalizedhome" element={<Personalizedhome />} />
             <Route path="/Newarrivals" element={<Newarrivalshome />} />

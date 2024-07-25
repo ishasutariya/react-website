@@ -1,4 +1,4 @@
-.buttons button{
+.buttons button {
     margin: 30px;
     padding: 10px 20px;
     border: 1px solid #000;
@@ -6,9 +6,18 @@
     background-color: #000;
     color: aliceblue;
 }
-.detail h4{
+
+.detail h4 {
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
 }
-.detail h5{
+
+.detail h5 {
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+@media only screen and (max-width:500px) and (min-width:320px) {
+    .buttons button {
+        margin: 10px;
+        width: auto;
+    }
 }

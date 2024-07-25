@@ -4,8 +4,11 @@ export const totalItem = (cart) => {
 }
 
 export const totalprice = (cart) => {
-    console.log((total, product) => total + product.price * product.quantity, 0,"OOOOOO");
-    return cart.reduce((total, product) => total + product.price * product.quantity, 0);   
+    console.log(cart,"cart");
+    return cart.reduce((total, product) => {
+        console.log(product.price * product.quantity,"hello");
+        return total + product.price * product.quantity;
+        }, 0);
 }
 
 const CartReducer = (state, action) => {
@@ -40,3 +43,4 @@ const CartReducer = (state, action) => {
 };
 
 export default CartReducer;
+
