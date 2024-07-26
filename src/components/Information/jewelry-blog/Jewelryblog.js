@@ -8,7 +8,7 @@ function Jewelryblog() {
     return (
         <div className="container blog">
             <div className="row ddd-dd">
-                <div className="col-4 col-md-6 col-lg-4 col-md-6 col-sm-12">
+                <div className="col-12 col-md-6 col-lg-4">
                     <div>
                         <img src='https://blinglane.com/cdn/shop/articles/master-the-art-of-layering-jewelry-blinglane.png?v=1701397961' />
                     </div>
@@ -30,8 +30,9 @@ function Jewelryblog() {
                         </p>
                     </div>
                 </div>
-                <div className="col-4 col-md-6 col-lg-4 col-md-6 col-sm-12">
+                <div className="col-12 col-md-6 col-lg-4">
                     <div>
+ 
                         <img src='https://blinglane.com/cdn/shop/articles/how-to-test-925-sterling-silver-blinglane.png?v=1701397961' />
                     </div>
                     <div className="textarea">
@@ -58,7 +59,7 @@ function Jewelryblog() {
                         </p>
                     </div>
                 </div>
-                <div className="col-4 col-md-6 col-lg-4 col-md-6 col-sm-12">
+                <div className="col-12 col-md-6 col-lg-4">
                     <div>
                         <img src='https://blinglane.com/cdn/shop/articles/what-is-925-sterling-silver-blinglane.jpg?v=1701397961' />
                     </div>
@@ -90,7 +91,7 @@ function Jewelryblog() {
                 </div>
 
 
-                <div className="col-4 col-md-6 col-lg-4 col-md-6 col-sm-12">
+                <div className="col-12 col-md-6 col-lg-4">
                     <div className="textarea">
                         <h1>3 ways to wear the Stackable Charm Rings Trend</h1>
                         <h6>OCTOBER 07, 2015    -    SAURABH GANDHI</h6>
@@ -117,7 +118,7 @@ function Jewelryblog() {
                         </p>
                     </div>
                 </div>
-                <div className="col-4 col-md-6 col-lg-4 col-md-6 col-sm-12">
+                <div className="col-12 col-md-6 col-lg-4">
                     <div className="textarea">
                         <h1>Why a Girl Needs Bling in Her Life?</h1>
                         <h6>NOVEMBER 05, 2014    -    SAURABH GANDHI</h6>
@@ -144,7 +145,7 @@ function Jewelryblog() {
                         </p>
                     </div>
                 </div>
-                <div className="col-4 col-md-6 col-lg-4 col-md-6 col-sm-12">
+                <div className="col-12 col-md-6 col-lg-4">
                     <div className="textarea">
                         <h1>Denim Bling Trend</h1>
                         <h6>SEPTEMBER 25, 2014    -    SAURABH GANDHI</h6>
@@ -171,7 +172,7 @@ function Jewelryblog() {
                         </p>
                     </div>
                 </div>
-                <div className="col-4 col-md-6 col-lg-4 col-md-6 col-sm-12">
+                <div className="col-12 col-md-6 col-lg-4">
                     <div className="textarea">
                         <h1>Charms Jewelry</h1>
                         <h6>SEPTEMBER 06, 2014     -    SHIKHA THAKUR</h6>
@@ -198,7 +199,7 @@ function Jewelryblog() {
                         </p>
                     </div>
                 </div>
-                <div className="col-4 col-md-6 col-lg-4 col-md-6 col-sm-12">
+                <div className="col-12 col-md-6 col-lg-4">
                     <div className="textarea">
                         <h1>Statement Jewelry | Blinglane</h1>
                         <h6>AUGUST 26, 2014     -     SHIKHA THAKUR</h6>
@@ -225,7 +226,7 @@ function Jewelryblog() {
                         </p>
                     </div>
                 </div>
-                <div className="col-4 col-md-6 col-lg-4 col-md-6 col-sm-12">
+                <div className="col-12 col-md-6 col-lg-4">
                     <div className="textarea">
                         <h1>Traditional Kundan Meena Jewellery</h1>
                         <h6>AUGUST 22, 2014     -     SHIKHA THAKUR</h6>
@@ -252,7 +253,7 @@ function Jewelryblog() {
                         </p>
                     </div>
                 </div>
-                <div className="col-4 col-md-6 col-lg-4 col-md-6 col-sm-12">
+                <div className="col-12 col-md-6 col-lg-4">
                     <div className="textarea">
                         <h1>Fashion Jewellery</h1>
                         <h6>AUGUST 14, 2014     -     SHIKHA THAKUR</h6>
@@ -279,7 +280,7 @@ function Jewelryblog() {
                         </p>
                     </div>
                 </div>
-                <div className="col-4 col-md-6 col-lg-4 col-md-6 col-sm-12">
+                <div className="col-12 col-md-6 col-lg-4">
                     <div className="textarea">
                         <h1>Ethnic Jewellery</h1>
                         <h6>AUGUST 20, 2014     -     SHIKHA THAKUR</h6>
