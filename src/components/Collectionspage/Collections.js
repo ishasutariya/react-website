@@ -24,7 +24,7 @@ function Collections() {
           {collections.map(collection => (
             <div key={collection.id} className="col-12 col-md-6 col-lg-3 collections-card">
               <div className="image-part">
-                <img src={collection.image} className="image-c" />
+                <img src={collection.image} className="image-c" alt="image" />
                 <div className="name-part">
                   <div className="image_name">{collection.image_name}</div>
                 </div>

@@ -1,0 +1,57 @@
+.blog {
+    padding: 20px;
+}
+
+.col-3{
+    margin: 20px 0px;
+}
+.textarea h1 {
+    font-size: 20px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    text-align: justify;
+    margin: 10px 0px;
+    letter-spacing: 0.5px;
+}
+
+.textarea h6 {
+    letter-spacing: 0.5px;
+    font-size: 10px;
+    margin: 10px 0px;
+    text-align: justify;
+    color: rgb(151, 149, 149);
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.textarea p {
+    letter-spacing: 0.5px;
+    font-size: 12px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    text-align: justify;
+
+}
+
+.ddd-dd{
+    min-height: 35vh;
+    justify-content: start;
+    padding: 20px 0px;
+    margin: 20px;
+}
+
+span {
+    color: black;
+    font-size: 15px;
+    background-color: #fff;
+}
+.ddd-dd img{
+    width: 100%;
+}
+.ddd-dd .col-4{
+    margin: 20px 0px;
+}
+@media only screen and (max-width:575px) and (min-width:500px){
+        .ddd-dd{
+            width: 100%;
+            /* display: inline-block; */
+            justify-content: center;
+        }
+}

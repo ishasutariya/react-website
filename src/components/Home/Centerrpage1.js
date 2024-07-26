@@ -8,14 +8,14 @@ function Centerrpage1() {
     return (
         <div className="main_div_page1">
             <h1 className="heder-text">The Finest Bling</h1>
-            <p className="description">Behold <span>exquisite hypoallergenic</span>  treasures from around the world, delivered to your doorstep!</p>
+            <p className="description">Behold <span className="span">exquisite hypoallergenic</span>  treasures from around the world, delivered to your doorstep!</p>
             <div>
                 <a href="#"><button>SHOP MINIMAL BLING</button></a>
             </div>
             <div className="row">
                 <div className="card col-12 col-lg-4">
                     <div className="image">
-                        <img src={elefant} />
+                        <img src={elefant}  alt="image" />
                     </div>
                     <div className="figcaption">
                         <div className="image_text">Flower Jawellery</div>
@@ -23,7 +23,7 @@ function Centerrpage1() {
                 </div>
                 <div className="card col-12 col-lg-4">
                     <div className="image">
-                        <img src={flower} />
+                        <img src={flower}  alt="image" />
                     </div>
                     <div className="figcaption">
                         <div className="image_text">Flower Jawellery</div>
@@ -31,7 +31,7 @@ function Centerrpage1() {
                 </div>
                 <div className="card col-12 col-lg-4">
                     <div className="image">
-                        <img src={ring_image} />
+                        <img src={ring_image}  alt="image" />
                     </div>
                     <div className="figcaption">
                         <div className="image_text">Flower Jawellery</div>

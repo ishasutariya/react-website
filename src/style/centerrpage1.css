@@ -24,7 +24,7 @@ body {
     letter-spacing: 1px;
 }
 
-span {
+.span {
     color: #000000;
     background-color: rgb(214, 222, 233);
     padding: 3px;

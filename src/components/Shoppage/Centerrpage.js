@@ -4,7 +4,7 @@ import '../../style/heder.css'
 function Centerrpage() {
     return (
         <div className="header_image">
-            <img src={shop_part_header} className="img-fluid" />
+            <img src={shop_part_header} className="img-fluid"  alt="image"/>
         </div>
     )
 }

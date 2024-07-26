@@ -25,6 +25,9 @@ import ContextProvider from './components/CartContext/ContextProvider';
 import Minimal from './components/Collectionspage/Minimal Jewellery/Minimal';
 import Elegant from './components/Collectionspage/Elegant/Elegant';
 import Lovedands from './components/Collectionspage/Love-Bands/Lovedands';
+import Flower from './components/Collectionspage/Flower-Jewellery/Flower';
+import Butterfly from './components/Collectionspage/Butterfly-Bling/Butterfly';
+import Jewelryblog from './components/Information/jewelry-blog/Jewelryblog';
 
 function App() {
   return (
@@ -50,6 +53,9 @@ function App() {
             <Route path='/Minimal' element={<Minimal/>} />
             <Route path='/Elegant' element={<Elegant/>} />
             <Route path='/Lovedands' element={<Lovedands/>}  />
+            <Route path='/Flower' element={<Flower/>} />
+            <Route path='/Butterfly' element={<Butterfly/>}/>
+            <Route path='/Jewelryblog' element={<Jewelryblog/>}/>
 
             <Route path="/expresshome" element={<Expresshome />} />
             <Route path="/Personalizedhome" element={<Personalizedhome />} />

@@ -66,11 +66,11 @@ function Navbar() {
                                 <li><a href='/Personalizedhome' className='menu'>Personalize Your Jewelry</a></li>
                                 <li><a href='/Lovedands' className='menu'>Love Bands</a></li>
                                 <li><a href='/Cartilage' className='menu'>Cartilage Piercing</a></li>
-                                <li><a href='#' className='menu'>Florals</a></li>
-                                <li><a href='#' className='menu'>Butterfly Bling</a></li>
+                                <li><a href='/Flower' className='menu'>Florals</a></li>
+                                <li><a href='/Butterfly' className='menu'>Butterfly Bling</a></li>
                                 <li><a href='#' className='menu'>LGBTQ Pride</a></li>
                                 <li><a href='#' className='menu'>Rose Gold</a></li>
-                                <li><a href='#' className='menu'>Ear Huggies</a></li>
+                                <li><a href='/earrings' className='menu'>Ear Huggies</a></li>
                             </ul>
                         </li>
                         <li><a href='/expresshome' className='menu'>Express Delivery</a></li>
@@ -79,7 +79,7 @@ function Navbar() {
                         <li>
                             <a href='/Informationhome' className='menu'>Information</a>
                             <ul className='drop-menu'>
-                                <li><a href='#' className='menu'>Jewellery Blog</a></li>
+                                <li><a href='/Jewelryblog' className='menu'>Jewellery Blog</a></li>
                                 <li><a href='#' className='menu'>Lookbook</a></li>
                                 <li><a href='#' className='menu'>Influencer Program</a></li>
                                 <li><a href='#' className='menu'>Check Order Status</a></li>

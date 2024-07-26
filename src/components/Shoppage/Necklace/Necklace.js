@@ -80,7 +80,7 @@ function Necklace() {
                     <div className="popup-content">
                         <span className="close" onClick={closePopup}>&times;</span>
                         <div className="d-flex">
-                            <img src={selectedProduct.image} alt={selectedProduct.name} className="m-4 image"  />
+                            <img src={selectedProduct.image} alt="image" className="m-4 image"  />
                             <img src={selectedProduct.hoverImage} alt="Hover" className="m-4 hoverimage"  />
                         </div>
                         <h3>{selectedProduct.name}</h3>

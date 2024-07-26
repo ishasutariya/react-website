@@ -397,7 +397,7 @@
             "hoverImage": "https://blinglane.com/cdn/shop/products/glitterati-butterfly-chain-earrings-blinglane-2.jpg?v=1701398783&width=535",
             "subname": "New Delhi Warehouse",
             "name": "Glitterati Butterfly Chain Earrings",
-            "price": " ,195"
+            "price": " 1195"
         },
         {
             "id": 7,
@@ -405,7 +405,7 @@
             "hoverImage": "https://blinglane.com/cdn/shop/products/you-are-my-dreamy-night-forever-love-bands-blinglane-2.jpg?v=1701399064&width=535",
             "subname": "New Delhi Warehouse",
             "name": "You Are My Dreamy Night Forever Love Bands",
-            "price": " ,295"
+            "price": " 2295"
         },
         {
             "id": 8,
@@ -413,7 +413,7 @@
             "hoverImage": "https://blinglane.com/cdn/shop/products/eternity-hoops-necklace-blinglane-2.jpg?v=1701398109&width=535",
             "subname": "New Delhi Warehouse",
             "name": "Eternity Hoops Necklace",
-            "price": " ,099"
+            "price": " 1099"
         },
         {
             "id": 9,
@@ -421,7 +421,7 @@
             "hoverImage": "https://blinglane.com/cdn/shop/products/refined-red-garnet-beads-minimal-bracelet-blinglane-2.jpg?v=1701398836&width=535",
             "subname": "New Delhi Warehouse",
             "name": "Refined Red Garnet Beads Minimal Bracelet",
-            "price": " ,899"
+            "price": " 2899"
         },
         {
             "id": 10,
@@ -429,7 +429,7 @@
             "hoverImage": "https://blinglane.com/cdn/shop/products/my-precious-mermaid-necklace-blinglane-2.jpg?v=1701398125&width=535",
             "subname": "New Delhi Warehouse",
             "name": "My Precious Mermaid Necklace",
-            "price": " ,849"
+            "price": " 1849"
         },
         {
             "id": 11,
@@ -437,7 +437,7 @@
             "hoverImage": "https://blinglane.com/cdn/shop/products/your-time-to-bloom-daisy-necklace-blinglane-2.jpg?v=1701398389&width=535",
             "subname": "New Delhi Warehouse",
             "name": "Your Time To Bloom Daisy Necklace",
-            "price": " ,645"
+            "price": " 2645"
         },
         {
             "id": 12,
@@ -445,7 +445,7 @@
             "hoverImage": "https://blinglane.com/cdn/shop/products/stay-on-track-together-love-bands-blinglane-2.jpg?v=1701398261&width=535",
             "subname": "New Delhi Warehouse",
             "name": "Stay On Track Together Love Bands",
-            "price": " ,295"
+            "price": " 2295"
         },
         {
             "id": 13,
@@ -453,7 +453,7 @@
             "hoverImage": "https://blinglane.com/cdn/shop/products/twinkling-butterflies-minimal-necklace-blinglane-2.jpg?v=1701398055&width=535",
             "subname": "New Delhi Warehouse",
             "name": "Twinkling Butterflies Minimal Necklace",
-            "price": " ,545"
+            "price": " 1545"
         },
         {
             "id": 14,
@@ -2792,6 +2792,259 @@
             "subname":"New Delhi Warehouse",
             "name":"Celebrating New Beginnings Love Bands",
             "price":"3345"
+        }
+    ],
+    "Flower-Jewellery":[
+        {
+            "id": 1,
+            "image": "https://blinglane.com/cdn/shop/products/it-s-sunny-outside-bracelet-blinglane-1.jpg?v=1701398496&width=535",
+            "hoverImage": "https://blinglane.com/cdn/shop/products/it-s-sunny-outside-bracelet-blinglane-2.jpg?v=1701398498&width=535",
+            "subname": "New Delhi Warehouse",
+            "name": "It's Sunny Outside Bracelet",
+            "price": "4385"
+        },
+        {
+            
+            "id": 2,
+            "image": "https://blinglane.com/cdn/shop/products/floral-clip-on-huggie-ear-cuffs-blinglane-1.jpg?v=1701398418&width=535",
+            "hoverImage": "https://blinglane.com/cdn/shop/products/floral-clip-on-huggie-ear-cuffs-blinglane-2.jpg?v=1701398418&width=535",
+            "subname": "New Delhi Warehouse",
+            "name": "Floral Clip On Huggie Ear Cuffs",
+            "price": " 2835"
+        },
+        {
+            "id": 3,
+            "image": "https://blinglane.com/cdn/shop/products/your-time-to-bloom-daisy-necklace-blinglane-1.jpg?v=1701398388&width=535",
+            "hoverImage": "https://blinglane.com/cdn/shop/products/your-time-to-bloom-daisy-necklace-blinglane-2.jpg?v=1701398389&width=535",
+            "subname": "New Delhi Warehouse",
+            "name": "Your Time To Bloom Daisy Necklace",
+            "price": " 2645"
+        },
+        {
+            "id": 4,
+            "image": "https://blinglane.com/cdn/shop/products/live-like-it-s-spring-daisy-necklace-blinglane-1.jpg?v=1701398053&width=535",
+            "hoverImage": "https://blinglane.com/cdn/shop/products/live-like-it-s-spring-daisy-necklace-blinglane-2.jpg?v=1701398055&width=535",
+            "subname": "New Delhi Warehouse",
+            "name": "Live Like It's Spring Daisy Necklace",
+            "price": " 2645"
+        },
+        {
+            "id": 5,
+            "image": "https://blinglane.com/cdn/shop/products/the-blooming-daisy-ring-blinglane-1.jpg?v=1701398061&width=535",
+            "hoverImage": "https://blinglane.com/cdn/shop/products/the-blooming-daisy-ring-blinglane-2.jpg?v=1701398063&width=535",
+            "subname": "New Delhi Warehouse",
+            "name": "The Blooming Daisy Ring",
+            "price": " 2549"
+        },
+        {
+            "id": 6,
+            "image": "https://blinglane.com/cdn/shop/products/divine-florals-stud-and-drop-earrings-blinglane-1.jpg?v=1701398546&width=535",
+            "hoverImage": "https://blinglane.com/cdn/shop/products/divine-florals-stud-and-drop-earrings-blinglane-1.jpg?v=1701398546&width=535",
+            "subname": "New Delhi Warehouse",
+            "name": "Divine Florals Stud & Drop Earrings",
+            "price": " 2565"
+        },
+        {
+            "id": 7,
+            "image": "https://blinglane.com/cdn/shop/products/spring-is-in-full-bloom-bracelet-blinglane-1.jpg?v=1701398388&width=535",
+            "hoverImage": "https://blinglane.com/cdn/shop/products/spring-is-in-full-bloom-bracelet-blinglane-2.jpg?v=1701398389&width=535",
+            "subname": "New Delhi Warehouse",
+            "name": "Spring Is In Full Bloom Bracelet",
+            "price": " 2445"
+        },
+        {
+            "id": 8,
+            "image": "https://blinglane.com/cdn/shop/products/dahlia-elite-necklace-blinglane-1.jpg?v=1701398108&width=535",
+            "hoverImage": "https://blinglane.com/cdn/shop/products/dahlia-elite-necklace-blinglane-2.jpg?v=1701398109&width=535",
+            "subname": "New Delhi Warehouse",
+            "name": "Dahlia Elite Necklace",
+            "price": " 2299"
+        },
+        {
+            "id": 9,
+            "image": "https://blinglane.com/cdn/shop/products/embellished-garland-ring-blinglane-1.jpg?v=1701398619&width=535",
+            "hoverImage": "https://blinglane.com/cdn/shop/products/embellished-garland-ring-blinglane-2.jpg?v=1701398620&width=535",
+            "subname": "New Delhi Warehouse",
+            "name": "Embellished Garland Ring",
+            "price": " 2295"
+        },
+        {
+            "id": 10,
+            "image": "https://blinglane.com/cdn/shop/products/blossomed-necklace-blinglane-1.jpg?v=1701398609&width=535",
+            "hoverImage": "https://blinglane.com/cdn/shop/products/blossomed-necklace-blinglane-2.jpg?v=1701398611&width=535",
+            "subname": "New Delhi Warehouse",
+            "name": "Blossomed Necklace",
+            "price": " 1980"
+        },
+        {
+            "id": 11,
+            "image": "https://blinglane.com/cdn/shop/products/dahlia-elite-chain-ring-blinglane-1.jpg?v=1701398443&width=535",
+            "hoverImage": "https://blinglane.com/cdn/shop/products/dahlia-elite-chain-ring-blinglane-2.jpg?v=1701398445&width=535",
+            "subname": "New Delhi Warehouse",
+            "name": "Dahlia Elite Chain Ring",
+            "price": " 1485" 
+        },
+        {
+            "id": 12,
+            "image": "https://blinglane.com/cdn/shop/products/dahlia-elite-bracelet-blinglane-1.jpg?v=1701398108&width=535",
+            "hoverImage": "https://blinglane.com/cdn/shop/products/dahlia-elite-bracelet-blinglane-2.jpg?v=1701398109&width=535",
+            "subname": "New Delhi Warehouse",
+            "name": "Dahlia Elite Bracelet",
+            "price": "1449"
+        },
+        {
+            "id": 13,
+            "image": "https://blinglane.com/cdn/shop/products/dahlia-on-vine-earrings-blinglane-1.jpg?v=1701398101&width=535",
+            "hoverImage": "https://blinglane.com/cdn/shop/products/dahlia-on-vine-earrings-blinglane-2.jpg?v=1701398103&width=360",
+            "subname": "New Delhi Warehouse",
+            "name": "Dahlia On Vine Earrings",
+            "price": "1445"
+        },
+        {
+            "id": 14,
+            "image": "https://blinglane.com/cdn/shop/products/breezy-daisy-minimal-drop-studs-blinglane-1.jpg?v=1701398053&width=535",
+            "hoverImage": "https://blinglane.com/cdn/shop/products/breezy-daisy-minimal-drop-studs-blinglane-2.jpg?v=1701398054&width=535",
+            "subname": "New Delhi Warehouse",
+            "name": "Breezy Daisy Minimal Drop Studs",
+            "price": "1445"
+        },
+        {
+            "id":15,
+            "image":"https://blinglane.com/cdn/shop/products/classy-flower-chain-earrings-blinglane-1.jpg?v=1701398827&width=535",
+            "hoverImage":"https://blinglane.com/cdn/shop/products/classy-flower-chain-earrings-blinglane-2.jpg?v=1701398827&width=535",
+            "subname":"New Delhi Warehouse",
+            "name":"Classy Flower Chain Earrings",
+            "price":"1245"
+        },
+        {
+            "id": 16,
+            "image": "https://blinglane.com/cdn/shop/products/dahlia-elite-ring-blinglane-1.jpg?v=1701398774&width=535",
+            "hoverImage": "https://blinglane.com/cdn/shop/products/dahlia-elite-ring-blinglane-2.jpg?v=1701398776&width=535",
+            "subname": "New Delhi Warehouse",
+            "name": "Dahlia Elite Ring",
+            "price": " 1149"
+        },
+        {
+            "id": 17,
+            "image": "https://blinglane.com/cdn/shop/products/my-darling-daisy-studs-blinglane-1.jpg?v=1701398133&width=535",
+            "hoverImage": "https://blinglane.com/cdn/shop/products/my-darling-daisy-studs-blinglane-2.jpg?v=1701398135&width=360",
+            "subname": "New Delhi Warehouse",
+            "name": "My Darling Daisy Studs",
+            "price": " 1149"
+        },
+        {
+            "id": 18,
+            "image": "https://blinglane.com/cdn/shop/products/glowing-daisy-studs-blinglane-1.jpg?v=1701398594&width=535",
+            "hoverImage": "https://blinglane.com/cdn/shop/products/glowing-daisy-studs-blinglane-2.jpg?v=1701398596&width=535",
+            "subname": "New Delhi Warehouse",
+            "name": "Glowing Daisy Studs",
+            "price": " 1095"
+        },
+        {
+            "id": 19,
+            "image": "https://blinglane.com/cdn/shop/products/classy-floral-minimal-studs-blinglane-1.png?v=1701398211&width=535",
+            "hoverImage": "https://blinglane.com/cdn/shop/products/classy-floral-minimal-studs-blinglane-2.jpg?v=1701398212&width=535",
+            "subname": "New Delhi Warehouse",
+            "name": "Classy Floral Minimal Studs",
+            "price": " 999"   
+        },
+        {
+            "id": 20,
+            "image": "https://blinglane.com/cdn/shop/products/dahlia-elite-studs-blinglane-1.jpg?v=1701398108&width=535",
+            "hoverImage": "https://blinglane.com/cdn/shop/products/dahlia-elite-studs-blinglane-2.jpg?v=1701398109&width=535",
+            "subname": "New Delhi Warehouse",
+            "name": "Dahlia Elite Studs",
+            "price": " 787"
+        }
+    ],
+    "Butterfly-Bling":[
+        {
+            "id": 1,
+            "image": "https://blinglane.com/cdn/shop/products/twinkling-butterflies-bracelet-blinglane-1.jpg?v=1701398681&width=535",
+            "hoverImage": "https://blinglane.com/cdn/shop/products/twinkling-butterflies-bracelet-blinglane-2.jpg?v=1701398683&width=535",
+            "subname": "New Delhi Warehouse",
+            "name": "Twinkling Butterflies Bracelet",
+            "price": " 1260"
+        },
+        {
+            "id": 2,
+            "image": "https://blinglane.com/cdn/shop/products/minimal-butterfly-ring-blinglane-1.jpg?v=1701398218&width=535",
+            "hoverImage": "https://blinglane.com/cdn/shop/products/minimal-butterfly-ring-blinglane-2.jpg?v=1701398220&width=535",
+            "subname": "New Delhi Warehouse",
+            "name": "Minimal Butterfly Ring",
+            "price": " 1990"
+        },
+        {
+            "id": 3,
+            "image": "https://blinglane.com/cdn/shop/products/minimal-butterfly-studs-blinglane-1.jpg?v=1701398223&width=535",
+            "hoverImage": "https://blinglane.com/cdn/shop/products/minimal-butterfly-studs-blinglane-2.jpg?v=1701398225&width=360",
+            "subname": "New Delhi Warehouse",
+            "name": "Minimal Butterfly Studs",
+            "price": " 949"
+        },
+        {
+            "id": 4,
+            "image": "https://blinglane.com/cdn/shop/products/the-hope-butterfly-studs-blinglane-1.jpg?v=1701398116&width=535",
+            "hoverImage": "https://blinglane.com/cdn/shop/products/the-hope-butterfly-studs-blinglane-2.jpg?v=1701398117&width=535",
+            "subname": "New Delhi Warehouse",
+            "name": "The Hope Butterfly Studs",
+            "price": " 1149"
+        },
+        {
+            "id": 5,
+            "image": "https://blinglane.com/cdn/shop/products/the-blingfly-drop-studs-blinglane-1.jpg?v=1701398553&width=360",
+            "hoverImage": "https://blinglane.com/cdn/shop/products/the-blingfly-drop-studs-blinglane-2.jpg?v=1701398554&width=535",
+            "subname": "New Delhi Warehouse",
+            "name": "The BlingFly Drop Studs",
+            "price": " 1890"
+        },
+        {
+            "id": 6,
+            "image": "https://blinglane.com/cdn/shop/products/glitterati-butterfly-chain-earrings-blinglane-1.jpg?v=1701398781&width=535",
+            "hoverImage": "https://blinglane.com/cdn/shop/products/glitterati-butterfly-chain-earrings-blinglane-2.jpg?v=1701398783&width=535",
+            "subname": "New Delhi Warehouse",
+            "name": "Glitterati Butterfly Chain Earrings",
+            "price": " 1195"
+        },
+        {
+            "id": 7,
+            "image": "https://blinglane.com/cdn/shop/products/twinkling-butterflies-minimal-necklace-blinglane-1.jpg?v=1701398053&width=535",
+            "hoverImage": "https://blinglane.com/cdn/shop/products/twinkling-butterflies-minimal-necklace-blinglane-2.jpg?v=1701398055&width=535",
+            "subname": "New Delhi Warehouse",
+            "name": "Twinkling Butterflies Minimal Necklace",
+            "price": " 1545"
+        },
+        {
+            "id": 8,
+            "image": "https://blinglane.com/cdn/shop/products/twinkling-butterflies-minimal-anklet-blinglane-1.jpg?v=1701398123&width=535",
+            "hoverImage": "https://blinglane.com/cdn/shop/products/twinkling-butterflies-minimal-anklet-blinglane-2.jpg?v=1701398125&width=535",
+            "subname": "New Delhi Warehouse",
+            "name": "Twinkling Butterflies Minimal Anklet",
+            "price": " 1980"
+        },
+        {
+            "id":9,
+            "image":"https://blinglane.com/cdn/shop/products/menelaus-morpho-studs-blinglane-1.jpg?v=1701398834&width=535",
+            "hoverImage":"https://blinglane.com/cdn/shop/products/menelaus-morpho-studs-blinglane-2.jpg?v=1701398834&width=535",
+            "subname":"New Delhi Warehouse",
+            "name":"Menelaus Morpho Studs",
+            "price":"1055"
+        },
+        {
+            "id":10,
+            "image":"https://blinglane.com/cdn/shop/products/blooming-butterfly-minimal-studs-blinglane-1.jpg?v=1701398770&width=535",
+            "hoverImage":"https://blinglane.com/cdn/shop/products/blooming-butterfly-minimal-studs-blinglane-2.jpg?v=1701398770&width=535",
+            "subname":"New Delhi Warehouse",
+            "name":"Blooming Butterfly Minimal Studs",
+            "price":"975"
+        },
+        {
+            "id":11,
+            "image":"https://blinglane.com/cdn/shop/products/luxe-mystical-butterfly-pendant-blinglane-1.jpg?v=1701398488&width=750",
+            "hoverImage":"https://blinglane.com/cdn/shop/products/luxe-mystical-butterfly-pendant-blinglane-2.jpg?v=1701398488&width=750",
+            "subname":"New Delhi Warehouse",
+            "name":"Luxe Mystical Butterfly Pendant",
+            "price":"4950"
         }
     ]
 }
