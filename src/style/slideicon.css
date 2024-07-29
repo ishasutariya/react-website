@@ -31,16 +31,18 @@
 }
 
 .newsletter-text {
-    writing-mode: vertical-rl;
-    text-orientation: upright;
-    transform: rotate(180deg);
-    margin-top: 20px;
+    vertical-align: bottom;
+    text-align: center;
 }
 
 .newsletter-text h5 {
-    font-size: 16px;
-    font-weight: normal;
-    letter-spacing: 1px;
+    margin-top: 20px;
+    font-size: 15px;
+    -ms-writing-mode: tb-rl;
+    /* -webkit- writing-mode: vertical-tb; */
+    writing-mode: vertical-rl;
+    transform: rotate(180deg);
+    white-space: nowrap;
 }
 
 @media only screen and (max-width:1440px) and (min-width:300px) {
