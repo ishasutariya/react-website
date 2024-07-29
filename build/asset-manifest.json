@@ -1,0 +1,43 @@
+{
+  "files": {
+    "main.css": "/static/css/main.7160b867.css",
+    "main.js": "/static/js/main.29039c84.js",
+    "static/js/453.82686c6d.chunk.js": "/static/js/453.82686c6d.chunk.js",
+    "static/media/Social5.avif": "/static/media/Social5.3ea79121b9cb335f15ca.avif",
+    "static/media/shop_part_header.jpg": "/static/media/shop_part_header.b41edf9db94ad1e66227.jpg",
+    "static/media/pearl_necklace.jpg": "/static/media/pearl_necklace.48fee3782c96faec9d85.jpg",
+    "static/media/Social9.avif": "/static/media/Social9.748250de8dbc3f16b6b5.avif",
+    "static/media/Social8.avif": "/static/media/Social8.9bdbe712f8f1be370e2d.avif",
+    "static/media/shop_the_look.webp": "/static/media/shop_the_look.86d820273c7187fd22eb.webp",
+    "static/media/elefant.webp": "/static/media/elefant.097ba86a4d573884673d.webp",
+    "static/media/vine_Earring.webp": "/static/media/vine_Earring.6c6b36c8608949fa8afc.webp",
+    "static/media/flower.webp": "/static/media/flower.a73a89282cf0d968b325.webp",
+    "static/media/Social4.avif": "/static/media/Social4.0f1867ee41b04c84cd64.avif",
+    "static/media/Shop_new3.webp": "/static/media/Shop_new3.202b6a600b4d09ee7183.webp",
+    "static/media/ring_image.webp": "/static/media/ring_image.7f2ee01e2de62fa7c058.webp",
+    "static/media/Social6.avif": "/static/media/Social6.89212723baf735047b77.avif",
+    "static/media/shop_the_look3.webp": "/static/media/shop_the_look3.5c1bd2dc7bbfccbc3ad9.webp",
+    "static/media/Shop_new2.webp": "/static/media/Shop_new2.614ae458b9f47968de31.webp",
+    "static/media/solitaire_necklace.webp": "/static/media/solitaire_necklace.8622c992306a408fe4fd.webp",
+    "static/media/Social1.avif": "/static/media/Social1.05e195340828f9664102.avif",
+    "static/media/minimal_hoops.webp": "/static/media/minimal_hoops.f840681db449c6bc5a44.webp",
+    "static/media/Social2.avif": "/static/media/Social2.4004cec493f72ec58394.avif",
+    "static/media/shop_image1.avif": "/static/media/shop_image1.46d8a1154af6e6c4af36.avif",
+    "static/media/shop_the_look2.webp": "/static/media/shop_the_look2.2904172593ef129365e5.webp",
+    "static/media/Shop_new.webp": "/static/media/Shop_new.73e5619c37386eb13d50.webp",
+    "static/media/Social7.avif": "/static/media/Social7.4b5f01449b3d1fd2e4b5.avif",
+    "static/media/shop_the_look1.webp": "/static/media/shop_the_look1.5c5dc9ce5b4c61105364.webp",
+    "static/media/Social3.avif": "/static/media/Social3.2cb7128081c58e89c93a.avif",
+    "static/media/shop_image.avif": "/static/media/shop_image.97d7051d797e1c32f187.avif",
+    "static/media/Shop_new1.webp": "/static/media/Shop_new1.04e817f1578d91477d43.webp",
+    "index.html": "/index.html",
+    "static/media/logo.webp": "/static/media/logo.c77a9e04c3319a0c5e00.webp",
+    "main.7160b867.css.map": "/static/css/main.7160b867.css.map",
+    "main.29039c84.js.map": "/static/js/main.29039c84.js.map",
+    "453.82686c6d.chunk.js.map": "/static/js/453.82686c6d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7160b867.css",
+    "static/js/main.29039c84.js"
+  ]
+}
