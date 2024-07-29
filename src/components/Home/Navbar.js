@@ -6,18 +6,26 @@ import shop_image1 from '../../images/shop_image1.avif';
 import { CartContext } from '../CartContext/ContextProvider';
 
 function Navbar() {
-    const { cart } = useContext(CartContext)
+    const { cart } = useContext(CartContext);
     return (
         <div>
             <nav>
                 <div className='wrapper'>
+
+
                     <div className='logo'><a href='/'><img src={logo} alt="logo" /></a></div>
+                    <input type='radio' name='slide' id="menu-btn" />
+                    <input type='radio' name='slide' id="cancel-btn" />
+                    <label for="menu-btn" className='btn menu-btn' ><i class="fa-solid fa-list"></i></label>
                     <ul className='nav-link'>
+                        <label for="cancel-btn" className='btn cancel-btn' ><i class="fa-solid fa-xmark"></i></label>
                         <li>
-                            <a href='/shop' className='menu'>Shop</a>
+                            <a href='/shop' className='menu' id='desktop-item'>Shop</a>
+                            <input type='checkbox' id='showmega' />
+                            <label for="showmega" className='mobile-item' >Shop</label>
                             <div className='mega-box'>
                                 <div className='content'>
-                                    <div className='rows'>
+                                    <div className='rows' id='shopmenu'>
                                         <header>Jewelry</header>
                                         <ul className='mega-link'>
                                             <li><a href='/necklaces' className='menu'>Necklaces</a></li>
@@ -39,7 +47,7 @@ function Navbar() {
                                         <div className='rows'>
                                             <div className='mega-link-image'>
                                                 <a href='/Personalizedhome'>
-                                                    <img src={shop_image} className="shop_image" />
+                                                    <img src={shop_image} className="shop_image" alt="Shop Image" />
                                                     <p><a href='#'>PERSONALIZE YOUR JEWELRY</a></p>
                                                     <p><a href='#'>Shop Now!</a></p>
                                                 </a>
@@ -47,7 +55,7 @@ function Navbar() {
                                         </div>
                                         <div className='rows'>
                                             <div className='mega-link-image'>
-                                                <img src={shop_image1} className="shop_image1" />
+                                                <img src={shop_image1} className="shop_image1" alt="Shop Image" />
                                                 <p><a href='#'>LOVE BANDS BY BLINGLANE</a></p>
                                                 <p><a href='#'>Shop Now!</a></p>
                                             </div>
@@ -57,7 +65,9 @@ function Navbar() {
                             </div>
                         </li>
                         <li>
-                            <a href='/collections' className='menu'>Collections</a>
+                            <a href='/collections' className='menu' id='desktop-item'>Collections</a>
+                            <input type='checkbox' id="showdrop" />
+                            <label for='showdrop' className="mobile-item" >collections </label>
                             <ul className='drop-menu'>
                                 <li><a href='/expresshome' className='menu'>Best Sellers</a></li>
                                 <li><a href='/expresshome' className='menu'>Express Delivery</a></li>
@@ -77,7 +87,9 @@ function Navbar() {
                         <li><a href='/Personalizedhome' className='menu'>Personalize</a></li>
                         <li><a href='/Newarrivals' className='menu'>New Arrivals</a></li>
                         <li>
-                            <a href='/Informationhome' className='menu'>Information</a>
+                            <a href='/Informationhome' className='menu' id='desktop-item'>Information</a>
+                            <input type='checkbox' id="showdrop" />
+                            <label for='showdrop' className="mobile-item" >Information </label>
                             <ul className='drop-menu'>
                                 <li><a href='/Jewelryblog' className='menu'>Jewellery Blog</a></li>
                                 <li><a href='#' className='menu'>Lookbook</a></li>

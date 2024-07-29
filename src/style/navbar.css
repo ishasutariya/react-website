@@ -16,12 +16,17 @@ nav {
 }
 
 nav .wrapper {
-    /* max-width: 1250px; */
     background-color: #ffffff;
-    /* padding: 0 30px; */
     display: flex;
-    justify-content: space-around;
+    justify-content: space-between;
     align-items: center;
+    padding: 0 20px;
+}
+
+.wrapper .logo {
+    flex: 1;
+    display: flex;
+    justify-content: center;
 }
 
 .wrapper .logo a {
@@ -30,27 +35,28 @@ nav .wrapper {
 
 .nav-link {
     display: inline-flex;
+    flex: 4;
+    justify-content: center;
 }
 
 .nav-link li {
     list-style-type: none;
 }
 
-/* .nav-link li a:hover{
-    
-} */
 .nav-link li a {
     text-decoration: none;
     color: #000000;
-    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     letter-spacing: 1px;
     padding: 0px 20px;
 }
 
-/* .nav-link li a:hover{
-    color: #D2D5D9;
-    border-bottom: 2px solid lightgrey;
-}  */
+.icons {
+    display: flex;
+    flex: 1;
+    justify-content: flex-end;
+}
+
 .icons a {
     text-decoration: none;
 }
@@ -133,11 +139,12 @@ header {
 
 .mega-link-image {
     margin: 10px 20px;
-
 }
-.mega-link-image p{
+
+.mega-link-image p {
     width: max-content;
 }
+
 .content .rows {
     width: calc(55% - 30px);
     line-height: 40px;
@@ -146,8 +153,30 @@ header {
 .shop_image {
     width: 400px;
 }
-.shop_image1{
+
+.shop_image1 {
     width: 365px;
+}
+
+input {
+    display: none;
+}
+
+label {
+    display: none;
+}
+
+.wrapper .btn {
+    color: #000000;
+    font-size: 20px;
+    cursor: pointer;
+    display: none;
+}
+
+.wrapper .btn.cancel-btn {
+    position: absolute;
+    right: 30px;
+    top: 10px;
 }
 
 @media only screen and (max-width:1430px) and (min-width:1410px) {
@@ -170,7 +199,6 @@ header {
 }
 
 @media only screen and (max-width:1409px) and (min-width:1300px) {
-
     .mega-box {
         width: 100%;
     }
@@ -183,14 +211,17 @@ header {
     .shop_image {
         width: 300px;
     }
-    .shop_image1{
+
+    .shop_image1 {
         width: 300px;
     }
-    .image-section{
+
+    .image-section {
         left: 0px;
     }
 }
-@media only screen and (max-width:1300px) and (min-width:1200px){
+
+@media only screen and (max-width:1300px) and (min-width:1200px) {
     .mega-box {
         width: 90%;
     }
@@ -203,52 +234,197 @@ header {
     .shop_image {
         width: 300px;
     }
-    .shop_image1{
+
+    .shop_image1 {
         width: 300px;
     }
-    .image-section{
+
+    .image-section {
         left: 0px;
     }
 }
-@media only screen and (max-width:1200px) and (min-width:1125px){
-    
+
+@media only screen and (max-width:1200px) and (min-width:1125px) {
     .mega-box {
         width: 80%;
     }
+
     .mega-box .content {
         max-width: 1100px;
         padding: 25px 0px;
         justify-content: center !important;
     }
-    
+
     .shop_image {
         width: 300px;
     }
-    .shop_image1{
+
+    .nav-link li a {
+        font-size: 15px;
+    }
+
+    .shop_image1 {
         width: 300px;
     }
-    .image-section{
+
+    .image-section {
         left: 0px;
     }
 }
-@media only screen and (max-width:1125px) and (min-width:1000px){
+
+@media only screen and (max-width:1125px) and (min-width:1024px) {
     .mega-box {
         width: 100%;
         display: inline-block;
         justify-content: center;
     }
+
     .mega-box .content {
         max-width: 1100px;
         padding: 25px 0px;
         justify-content: center !important;
     }
+
     .shop_image {
         width: 250px;
     }
-    .shop_image1{
+
+    .shop_image1 {
         width: 250px;
     }
-    .image-section{
+
+    .image-section {
         left: 0px;
     }
+}
+
+@media only screen and (max-width:1024px) and (min-width:320px) {
+    .image-section {
+        display: none;
+    }
+    .wrapper .btn {
+        display: block;
+    }
+
+    nav .wrapper{
+        display: flex;
+        align-items: center;
+    }
+    .wrapper .nav-link {
+        position: fixed;
+        height: 100vh;
+        width: 100%;
+        max-width: 350px;
+        display: block;
+        top: 0;
+        left: -100%;
+        overflow-y: auto;
+        line-height: 50px;
+        padding: 50px 10px;
+        background-color: #ffffff;
+    }
+
+    #menu-btn:checked ~ .nav-link {
+        left: 0%;
+    }
+    #cnacel-btn:checked ~ .nav-link{
+        left: -100%;
+    }
+    .nav-link ::-webkit-scrollbar {
+        width: 0px;
+    }
+
+    .nav-link li {
+        margin: 0px;
+        margin: 15px 10px;
+    }
+
+    .nav-link li a {
+        padding: 0px 0px;
+        display: block;
+        font-size: 20px;
+    }
+
+    .nav-link .drop-menu {
+        position: static;
+        opacity: 1;
+        visibility: visible;
+        top: 65px;
+        padding-left: 20px;
+        width: 100%;
+        max-height: 0px;
+        overflow: hidden;
+    }
+
+    #showdrop:checked~.drop-menu,
+    #showmega:checked~.mega-box {
+        max-height: 100%;
+    }
+
+    .nav-link .drop-menu li {
+        margin: 0;
+    }
+
+    .nav-link .drop-menu li a {
+        font-size: 18px;
+        border-radius: 5px;
+    }
+
+    .nav-link #desktop-item {
+        display: none;
+    }
+
+    .nav-link .mobile-item {
+        display: block;
+        font-size: 20px;
+        color: #000000;
+        font-weight: 500px;
+        padding-left: 20px;
+        cursor: pointer;
+        transition: all 0.3s ease;
+    }
+
+    .nav-link .mobile-item:hover {
+        color: #000000;
+        background-color: #ffffff;
+    }
+
+    .wrapper input {
+        display: none;
+    }
+
+    .mega-box {
+        position: static;
+        top: 65px;
+        width: 100%;
+        background-color: #ffffff;
+        opacity: 1;
+        visibility: visible;
+        padding: 0 20px;
+        max-height: 0px;
+        overflow: hidden;
+    }
+
+    .mega-box .content {
+        flex-direction: column;
+        padding: 00px 20px 0px 20px;
+    }
+
+    .mega-box .content #shopmenu {
+        width: 100%;
+        margin-bottom: 15px;
+
+    }
+
+    .content #shopmenu .mega-link {
+        padding-left: 15px;
+    }
+
+    #shopmenu .mega-link li {
+        margin: 0px;
+    }
+    .icons a i{
+        font-size: 15px;
+    }
+
 }
